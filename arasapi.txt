@@ -1,0 +1,1794 @@
+            ARAS KARGO MÜÞTERÝ BÝLGÝ SORGULAMA SERVÝSLERÝ MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ 
+Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 2 / 78 Revizyon Tarihi 
+ 31.07.2017   ÝÇÝNDEKÝLER ÝÇÝNDEKÝLER 
+ 2 1.   AMAÇ 
+ 5 2.   ARAS WEB SERVÝSÝ ÝLE YAPILAN BÝLGÝLENDÝRME 
+ 5 2.1. 
+ UYGULAMAYA KAYIT OLMA 
+ 5 2.2. 
+ UYGULAMAYA GÝRÝÞ 
+ 7 2.2.1. 
+ QueryType = 1: 
+ 8 2.2.2. 
+ QueryType = 2: 
+ 10 2.2.3. 
+ QueryType = 3: 
+ 11 2.2.4. 
+ QueryType = 4: 
+ 12 2.2.5. 
+ QueryType = 5: 
+ 13 2.2.6. 
+ QueryType = 6: 
+ 13 2.2.7. 
+ QueryType = 7: 
+ 14 2.2.8. 
+ QueryType = 8: 
+ 15 2.2.9. 
+ QueryType = 9: 
+ 16 2.2.10. 
+ QueryType = 10: 
+ 17 2.2.11. 
+ QueryType = 11: 
+ 18 2.2.12. 
+ QueryType = 12: 
+ 19 2.2.13. 
+ QueryType = 13: 
+ 21 2.2.14. 
+ QueryType = 14 
+ 23 2.2.15. 
+ QueryType = 15: 
+ 24 2.2.16. 
+ QueryType = 16: 
+ 25 2.2.17. 
+ QueryType = 18: 
+ 26 2.2.18. 
+ QueryType = 19: 
+ 27 2.2.19. 
+ QueryType = 21: 
+ 29 2.2.20. 
+ QueryType = 22: 
+ 31 2.2.21. 
+ QueryType = 23: 
+ 33 2.2.22. 
+ QueryType = 24: 
+ 35 2.2.23. 
+ QueryType = 25: 
+ 37 MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 3 / 78 Revizyon Tarihi 
+ 31.07.2017  2.2.24. 
+ QueryType = 26 
+ 38 2.2.25. 
+ QueryType = 30 
+ 41 2.2.26. 
+ QueryType = 31 
+ 44 2.2.27. 
+ QueryType = 36 
+ 44 2.2.28. 
+ QueryType = 37 
+ 45 2.2.29. 
+ QueryType = 39 
+ 47 2.2.30. 
+ QueryType = 40 
+ 48 2.2.31. 
+ QueryType = 41 
+ 50 2.2.32. 
+ QueryType = 100 
+ 51 2.2.33. 
+ QueryType = 101 
+ 52 2.2.34. 
+ QueryType = 102 
+ 53 2.3.   DEVÝR KODLARI VE NEDENLERÝ 
+ 55 2.4. 
+ ÖRNEK KOD 
+ 55 3.   MAIL ÝLE YAPILAN BÝLGÝLENDÝRME 
+ 56 3.1. 
+ UYGULAMAYA KAYIT OLMA 
+ 56 4.   MÜÞTERÝ WEB SERVÝSÝ ÝLE YAPILAN BÝLGÝLENDÝRME 
+ 57 4.1. 
+ UYGULAMAYA GÝRÝÞ 
+ 57 5.   KURUMSAL WEB 
+ 58 5.1. 
+ GÖNDERÝ TAKÝP 
+ 58 5.1.1. 
+ Gönderilen Kargolar 
+ 58 5.1.1.1. 
+ Gönderilen Kargolar (Tümü) 
+ 58 5.1.1.2. 
+ Gönderilen Kargolar (Ücreti Göndericiden) 
+ 59 5.1.1.3. 
+ Gönderilen Kargolar (Ücretli Alýcýdan) 
+ 60 5.1.1.4. 
+ Teslim Edilen Kargolar 
+ 61 5.1.1.5. 
+ Ýade Edilen Kargolar 
+ 62 5.1.1.6. 
+ Tahsilatlý Kargolar 
+ 62 5.1.1.7. 
+ Tahsilatlý Kargolar Ödenecek Tarihe Göre 
+ 63 5.1.1.8. 
+ Çýkýþ Özet Raporu 
+ 64 5.1.1.9. 
+ Devir Kargo Raporu 
+ 64 5.1.2. 
+ Gelen Kargolar 
+ 65 5.1.2.1. 
+ Gelen Kargolar (Tümü) 
+ 65 5.1.2.2. 
+ Gelen Kargolar (Ücreti Göndericiden) 
+ 66 MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 4 / 78 Revizyon Tarihi 
+ 31.07.2017  5.1.2.3. 
+ Gelen Kargolar (Ücreti Alýcýdan) 
+ 67 5.1.2.4. 
+ Teslim Alýnan Kargolar 
+ 67 5.1.3.    Gönderi Arama 
+ 68 5.1.3.1. 
+ Ýrsaliye Seri / No Göre Arama 
+ 68 5.1.3.2. 
+ Müþteri Özel Koduna (MÖK) Göre Arama 
+ 69 5.1.3.3. 
+ Alýcý Adýna Göre Arama 
+ 70 5.1.3.4. 
+ Kargo Takip No’ya Göre Arama 
+ 71 6.   KARGO TAKÝP LÝNKLERÝ 
+ 72 6.1. 
+ UYGULAMAYA KAYIT OLMA 
+ 72 6.2. 
+ UYGULAMAYA GÝRÝÞ 
+ 75 MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ 
+Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 5 / 78 Revizyon Tarihi 
+ 31.07.2017  1. AMAÇ  Bu dokümanda Aras Kargo A.Þ’nin müþterilerine sunmuþ olduðu bilgilendirme hizmetleri listelenmiþtir. Müþteriler kargo bilgilerinin takibini aþaðýdaki yollarla yapabilirler. 
+     2. ARAS WEB SERVÝSÝ ÝLE YAPILAN BÝLGÝLENDÝRME 2.1. UYGULAMAYA KAYIT OLMA . Uygulamaya kayýt olabilmek için, kurumsal web sitemizden “Entegrasyon” sekmesi altýnda bulunan “Entegrasyon Ýþlemleri” butonuna týklanýr ve “XML Servisleri” sekmesi seçilir ve buradan kayýt olunur.        MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 6 / 78 Revizyon Tarihi 
+ 31.07.2017  . Canlý ortam bilgileri esasweb.araskargo.com.tr adresinde yer alan Entegrasyon Üyelikleri sayfasýndan üye olunarak oluþturulmaktadýr. 
+Servis Linkleri; Test Ortamý Linki : http://customerservicestest.araskargo.com.tr/ArasCargoIntegrationService.svc Test Ortamý Bilgileri: Username: neodyum 
+Password:nd2580 
+CustomerCode= 1932448851342 Canlý Ortam Linki: http://customerservices.araskargo.com.tr/ArasCargoCustomerIntegrationService/ArasCa rgoIntegrationService.svc MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 7 / 78 Revizyon Tarihi 
+ 31.07.2017  2.2. UYGULAMAYA GÝRÝÞ Bilgilendirme servislerimiz aþaðýdakilerden oluþmaktadýr: 1. GetQueryDS Girilen parametrelere baðlý olarak servis (GetQueryDS) kargo bilgilerinin bulunduðu listeyi “DataSet” olarak geri döndürmektedir. 2. GetQueryXML Girilen parametrelere baðlý olarak servis(GetQueryXML) kargo bilgilerinin bulunduðu listeyi “XML” formatýnda string geri döndürmektedir. 3. GetQueryJSONGirilen parametrelere baðlý olarak servis (GetQueryJSON) kargo bilgilerinin bulunduðu listeyi “JSON” formatýnda string geri döndürmektedir.   Servisler 2 parametre ile çalýþýr. Bu parametreler; “loginInfo” ve “queryInfo” þeklindedir. 
+Bu parametreler “String” türündedir ve yapýlarý XML formatýndadýr. Kullaným Örneði; 
+. Birinci Parametre, bu parametre sabittir. Aþaðýdaki formata uyulmalýdýr. string loginInfo = @"<LoginInfo> <UserName>Aras</UserName> 
+<Password>12345</Password> 
+<CustomerCode>1234567889</CustomerCode> </LoginInfo>"; . Ýkinci parametre dinamiktir, en az bir deðer içermelidir. string queryInfo = @"<QueryInfo> <QueryType>1</QueryType> 
+<IntegrationCode>123456</IntegrationCode> </QueryInfo>"; MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 8 / 78 Revizyon Tarihi 
+ 31.07.2017  Parametre Bilgileri; 
+. LoginInfo Parametresi Username = XML Servisi entegrasyonuna kayýt olunan kullanýcý adý Password = XML Servisi entegrasyonuna kayýt olunan þifre CustomerCode = Müþteri kodu anlamýna gelmektedir. Müþteri Kodu(CustomerCode)’nu kayýt olduðunuz sayfadan öðrenebilirsiniz. . QueryInfo Parametresi: QueryType = Eriþilmek istenen bilgilerin türüdür. Deðer girilmesi zorunludur IntegrationCode = Entegrasyon kodu anlamýna gelmektedir 
+QueryType’lar ve Açýklamalarý:2.2.1. QueryType = 1: . Müþteri referans bilgisine (Müþteri Özel Kodu) göre belirli bir kargonun bilgisini verir KOLON ADI 
+ AÇIKLAMA MÜÞTERÝ ÖZEL KODU 
+ Müþteri Özel Kodudur ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr GÖNDERÝCÝ 
+ Gönderici Adresi Adýdýr ALICI 
+ Alýcý Adresi Adýdýr KARGO LÝNK NO 
+ Kargo Link No KARGO TAKÝP NO 
+ Kargo takip No ÇIKIÞ ÞUBE 
+ Kargonun verildiði þube adýdýr. VARIÞ ÞUBE 
+ Kargoyu teslim edecek/eden þubenin adýdýr. ÇIKIÞ TARÝHÝ 
+ Ýrsaliye tarihidir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür. ÖDEME TÝPÝ 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) TUTAR 
+ KDV Hariç tutardýr. REFERANS 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. VARIÞ KODU 
+ Kargoyu teslim edecek/eden þubenin kodudur. TÝP KODU 
+ Kargonun yönlendirme durumunu gösteren MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 9 / 78 Revizyon Tarihi 
+ 31.07.2017  koddur. (1:Normal, 2:Yönlendirildi, 3:Ýade edildi) DURUM KODU 
+ Kargonun son durumunu belirtir. (1:Çýkýþ Þubesinde, 2:Yolda, 3:Teslimat Þubesinde, 4:Teslimatta, 5:Parçalý Teslimat, 6:Teslim Edildi, 7:Yönlendirildi) DURUMU 
+ Kargonun son durum açýklamasýdýr. ÝADE SEBEBÝ 
+ Ýade nedeni açýklamasýdýr. DEVÝR KODU 
+ Devir kodu. (Bkz. KARGO DEVÝR NEDENLERÝ) WORLDWIDE 
+ Kargonun yurtdýþý olup olmadýðýný belirtir(Yurtdýþý ise 1; deðilse 0 deðerini alýr) KARGO KODU 
+ Kargo Kodudur. DURUM_EN 
+ Kargonun Ýngilizce son durum açýklamasýdýr. Kullaným Örneði;string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>";  string queryInfo = @"<QueryInfo> 
+<QueryType>1</QueryType> 
+<IntegrationCode>code</IntegrationCode> 
+</QueryInfo>"; MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 10 / 78 Revizyon Tarihi 
+ 31.07.2017  2.2.2. QueryType = 2: . Belirli bir tarihe göre gönderilen kargolarýn listesini verir. KOLON ADI 
+ AÇIKLAMA MÜÞTERÝ ÖZEL KODU 
+ Müþteri Özel Kodudur MÜÞTERÝ KODU 
+ Müþteri kodudur. ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr NAME 
+ Müþteri Adý GÖNDERÝCÝ ADI 
+ Gönderici Adresi Adýdýr ALICI ADI 
+ Alýcý Adresi Adýdýr ÇIKIÞ ÞUBESÝ 
+ Kargonun verildiði þube adýdýr. VARIÞ ÞUBESÝ 
+ Kargoyu teslim edecek/eden þubenin adýdýr. DÜZENLEME TARÝHÝ 
+ Kargo kaydýnýn oluþturulduðu tarihtir. REFERANS NO 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. ÞEHÝR 
+ Kargonun teslim edileceði þehirdir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür. TUTAR 
+ KDV Hariç tutardýr.  ÝADE 
+ Ýade edilip edilmediðini gösterir. (Evet /Hayýr) KARGO KODU 
+ Kargo Kodudur. TRACKINGNUMBER 
+ Kargo takip No 
+Kullaným Örneði; string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>"; string queryInfo = @"<QueryInfo> <QueryType>2</QueryType> 
+<Date>Tarih</Date> 
+</QueryInfo>"; MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 11 / 78 Revizyon Tarihi 
+ 31.07.2017  2.2.3. QueryType = 3: . Teslim tarihine göre teslim edilen kargolarýn listesini verirKOLON ADI 
+ AÇIKLAMA MÜÞTERÝ ÖZEL KODU 
+ Müþteri Özel Kodudur MÜÞTERÝ KODU 
+ Müþteri kodudur. ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr ALICI ADI 
+ Alýcý Adresi Adýdýr SEVK ÝRSALÝYE 
+ Müþterinin sevk irsaliyesidir. ÇIKIÞ ÞUBESÝ 
+ Kargonun verildiði þube adýdýr. VARIÞ ÞUBESÝ 
+ Kargoyu teslim edecek/eden þubenin adýdýr. TARÝH 
+ Kargo kaydýnýn oluþturulduðu tarihtir. REF NO 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. ÞEHÝR 
+ Kargonun teslim edileceði þehirdir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür. TUTAR 
+ KDV Hariç tutardýr. OT 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. ÝADE 
+ Ýade edilip edilmediðini gösterir. (Evet /Hayýr) KARGO KODU 
+ Kargo Kodudur. KARGO TAKÝP NO 
+ Kargo takip No 
+ 
+Kullaným Örneði; string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>"; string queryInfo = @"<QueryInfo> 
+<QueryType>3</QueryType> 
+<Date>Tarih</Date> </QueryInfo>"; MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 12 / 78 Revizyon Tarihi 
+ 31.07.2017  2.2.4. QueryType = 4: . Ýrsaliye tarihine göre teslim edilen kargolarýn listesini verir KOLON ADI 
+ AÇIKLAMA MÜÞTERÝ ÖZEL KODU 
+ Müþteri Özel Kodudur MÜÞTERÝ KODU 
+ Müþteri kodudur. ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr ALICI ADI 
+ Alýcý Adresi Adýdýr SEVK ÝRSALÝYE 
+ Müþterinin sevk irsaliyesidir. ÇIKIÞ ÞUBESÝ 
+ Kargonun verildiði þube adýdýr. VARIÞ ÞUBESÝ 
+ Kargoyu teslim edecek/eden þubenin adýdýr. TARÝH 
+ Kargo kaydýnýn oluþturulduðu tarihtir. REF NO 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. ÞEHÝR 
+ Kargonun teslim edileceði þehirdir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür. TUTAR 
+ KDV Hariç tutardýr. OT 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. ÝADE 
+ Ýade edilip edilmediðini gösterir. (Evet /Hayýr) KARGO KODU 
+ Kargo Kodudur. KARGO TAKÝP NO 
+ Kargo takip No TAHSÝLATLI KARGO TUTARI 
+ Tahsilatlý kargonun Tutarýdýr. 
+ Kullaným Örneði; string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>"; string queryInfo = @"<QueryInfo> 
+<QueryType>4</QueryType> 
+<Date>Tarih</Date> </QueryInfo> MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 13 / 78 Revizyon Tarihi 
+ 31.07.2017  2.2.5. QueryType = 5: . Henüz teslim edilmemiþ, bir nedenle teslimat þubesinde bekleyen kargolarýn listesini verir KOLON ADI 
+ AÇIKLAMA MÜÞTERÝ ÖZEL KODU 
+ Müþteri Özel Kodudur MÜÞTERÝ KODU 
+ Müþteri kodudur. ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr ALICI ADI 
+ Alýcý Adresi Adýdýr ÞUBE ADI 
+ Kargoyu teslim edecek/eden þubenin adýdýr. ÇIKIÞ TARÝHÝ 
+ Kargo kaydýnýn oluþturulduðu tarihtir. DEVÝR AÇIKLAMA 
+ Devir açýklamasýdýr. DEVÝR NEDENÝ 
+ Devir nedenidir. DEVÝR KODU 
+ Devir kodu. (Bkz. KARGO DEVÝR NEDENLERÝ) 
+ 
+Kullaným Örneði; string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>";string queryInfo = @"<QueryInfo> <QueryType>5</QueryType> </QueryInfo>"; 2.2.6. QueryType = 6: . Belirli bir tarihe göre yönlendirilen kargolarýn listesini verir KOLON ADI 
+ AÇIKLAMA MÜÞTERÝ ÖZEL KODU 
+ Müþteri Özel Kodudur MÜÞTERÝ KODU 
+ Müþteri kodudur. ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr ALICI ADI 
+ Alýcý Adresi Adýdýr YÖNLENDÝRME TARÝHÝ 
+ Yönlendirme tarihidir. YÖNLENDÝREN BÝRÝM 
+ Kargoyu yönlendiren þubenin adýdýr. YÖNLENDÝRÝLEN BÝRÝM 
+ Kargonun yönlendirildiði þubenin adýdýr. YÖNLENDÝRME KODU 
+ Yönlendirme kodu YÖNLENDÝRME NEDENÝ 
+ Yönlendirme nedenidir. MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ 
+Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 14 / 78 Revizyon Tarihi 
+ 31.07.2017(Müþteri isteði ile varýþ merkezi hatasý) Kullaným Örneði; string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>"; string queryInfo = @"<QueryInfo> 
+<QueryType>6</QueryType> 
+<Date>Tarih</Date> 
+</QueryInfo>";2.2.7. QueryType = 7: . Ýrsaliye tarihine göre Gidiþ dönüþ hizmet verilen Geri Dönüþlü kargo ürünü ile gönderilen kargolarýn listesini verir KOLON ADI 
+ AÇIKLAMA MÜÞTERÝ ÖZEL KODU 
+ Müþteri Özel Kodudur MÜÞTERÝ KODU 
+ Müþteri kodudur. ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr ALICI ADI 
+ Alýcý Adresi Adýdýr SEVK ÝRSALÝYE 
+ Müþterinin sevk irsaliyesidir. ÇIKIÞ ÞUBESÝ 
+ Kargonun verildiði þube adýdýr. VARIÞ ÞUBESÝ 
+ Kargoyu teslim edecek/eden þubenin adýdýr. DÜZENLEME TARÝHÝ 
+ Kargo kaydýnýn oluþturulduðu tarihtir. REFERANCE NO 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. ÞEHÝR 
+ Kargonun teslim edileceði þehirdir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür. TUTAR 
+ KDV Hariç tutardýr. OT 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. ÝADE 
+ Ýade edilip edilmediðini gösterir. (Evet /Hayýr) DÖNÜÞ ÝRSALÝYE NUMARA 
+ Taþýma irsaliyesinin dönen seri ve numarasýdýr. DÖNÜÞ DÜZENLEME TARÝHÝ 
+ Dönen Kargo kaydýnýn oluþturulduðu tarihtir. MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 15 / 78 Revizyon Tarihi 
+ 31.07.2017  DÖNÜÞ ADET 
+ Dönen Kargo parça sayýsýdýr. DÖNÜÞ DESÝ 
+ Dönen Kargonun Ölçüsüdür. DÖNÜÞ TESLÝM ALAN 
+ Dönen Kargoyu teslim alanýn adýdýr. DÖNÜÞ TESLÝM TARÝHÝ 
+ Dönen Kargonun teslim edildiði tarihtir. DÖNÜÞ TESLÝM SAATÝ 
+ Dönen Kargonun teslim alýndýðý saattir.  Kullaným Örneði; string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>"; string queryInfo = @"<QueryInfo> <QueryType>7</QueryType> 
+<Date>Tarih</Date> 
+</QueryInfo>";2.2.8. QueryType = 8: . Göndericiye iade edilen kargolarýn listesini verir KOLON ADI 
+ AÇIKLAMA MÜÞTERÝ ÖZEL KODU 
+ Müþteri Özel Kodudur ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr GÖNDERÝCÝ 
+ Kargoyu gönderenin adresinin adýdýr. ALICI 
+ Alýcý Adresi Adýdýr ÇIKIÞ ÞUBE 
+ Kargonun verildiði þube adýdýr. VARIÞ ÞUBE 
+ Kargoyu teslim edecek/eden þubenin adýdýr. ÝRSALÝYE TARÝHÝ 
+ Kargo kaydýnýn oluþturulduðu tarihtir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür. ÖDEME TÝPÝ 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) TUTAR 
+ KDV Hariç tutardýr. REFERANS 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. VARIÞ KODU 
+ Kargoyu teslim edecek/eden þubenin kodudur. MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 16 / 78 Revizyon Tarihi 
+ 31.07.2017  DURUM 
+ Kargonun son durum açýklamasýdýr. SEBEP 
+ Ýade sebebi açýklamasýdýr. AÇIKLAMA 
+ Ýade sebebi ile alakalý girilen not. WORLDWIDE 
+ Kargonun yurtdýþý olup olmadýðýný belirtir(Yurtdýþý ise 1; deðilse 0 deðerini alýr) KARGO KODU 
+ Kargo Kodudur.  Kullaným Örneði; string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>"; string queryInfo = @"<QueryInfo> <QueryType>8</QueryType> 
+<Date>Tarih</Date> </QueryInfo>"2.2.9. QueryType = 9: . Kargo hareket bilgisini verir KOLON ADI 
+ AÇIKLAMA ÝÞLEM TARÝHÝ 
+ Ýþlem tarihidir. BÝRÝM 
+ Kargonun bulunduðu þubenin adýdýr. ÝÞLEM 
+ Kargonun hangi iþlemde olduðunu belirtir. (Örnek: Þubede araç yükleme, Aktarmada hat aracý indirme) AÇIKLAMA 
+ Ýþlemin tanýmýdýr. 
+Kullaným Örneði;string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>"; string queryInfo = @"<QueryInfo> MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 17 / 78 Revizyon Tarihi 
+ 31.07.2017  <QueryType>9</QueryType> 
+<IntegrationCode>code</IntegrationCode> 
+</QueryInfo>";    2.2.10. QueryType = 10: . Tüm þube ve þube adres bilgilerini verir KOLON ADI 
+ AÇIKLAMA ÞUBE ADI 
+ Þubenin adýdýr. ÞUBE ADRESÝ 
+ Þubenin adres bilgisidir. ÝLÇE 
+ Þubenin bulunduðu ilçedir. TELEFON 
+ Þubenin telefon numarasýdýr. E-MAIL 
+ Þubenin e-mail adresidir. BAÐLI BÖLGE 
+ Þubenin baðlý olduðu bölgedir. KORDÝNAT 
+ Þubenin koordinatlarýdýr. ÞUBE ID 
+ Þube ID’sidir. ÞUBE KODU 
+ Þubenin kodudur. ÝL KODU 
+ Þubenin bulunduðu ilin kodudur. ÝLÇE KODU 
+ Þubenin bulunduðu ilçenin kodudur. 
+ 
+Kullaným Örneði;string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>";string queryInfo = @"<QueryInfo> <QueryType>10</QueryType> </QueryInfo>"; MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 18 / 78 Revizyon Tarihi 
+ 31.07.2017  2.2.11. QueryType = 11: . Müþteri referans bilgisine göre (MOK), belirli bir kargonun bilgisini verir. . Tek tek ya da toplu olarak mök ile arama yapýlýr. . Mök bilgisi "," ile ayrýlarak gönderilmelidir. KOLON ADI 
+ AÇIKLAMA MÜÞTERÝ ÖZEL KODU 
+ Müþteri Özel Kodudur ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr GÖNDERÝCÝ 
+ Gönderici Adresi Adýdýr ALICI 
+ Alýcý Adresi Adýdýr KARGO LÝNK NO 
+ Kargo Link No ÇIKIÞ ÞUBE 
+ Kargonun verildiði þube adýdýr. ÇIKIÞ ÞUBE TEL 
+ Kargonun verildiði þubenin telefon numarasýdýr VARIÞ ÞUBE 
+ Kargoyu teslim edecek/eden þubenin adýdýr. VARIÞ ÞUBE TEL 
+ Kargoyu teslim edecek/eden þubenin telefon numarasýdýr ÇIKIÞ TARÝH 
+ Ýrsaliye Tarihidir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür. ÖDEME TÝPÝ 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) TUTAR 
+ KDV Hariç tutardýr. REFERANS 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. VARIÞ KODU 
+ Kargoyu teslim edecek/eden þubenin kodudur. TÝP KODU 
+ Kargonun yönlendirme durumunu gösteren koddur. (1:Normal, 2:Yönlendirildi, 3:Ýade edildi) DURUM KODU 
+ Kargonun son durumunu belirtir. (1:Çýkýþ Þubesinde, 2:Yolda, 3:Teslimat Þubesinde, 4:Teslimatta, 5:Parçalý Teslimat, 6:Teslim Edildi, 7:Yönlendirildi) ÝADE SEBEBÝ 
+ Ýade sebebi açýklamasýdýr. DEVÝR KODU 
+ Devir kodu. (Bkz. KARGO DEVÝR NEDENLERÝ) DURUMU 
+ Kargonun son durum açýklamasýdýr. WORLDWIDE 
+ Kargonun yurtdýþý olup olmadýðýný belirtir(Yurtdýþý ise 1; deðilse 0 deðerini alýr) KARGO KODU 
+ Kargo Kodudur. DURUM_EN 
+ Kargonun Ýngilizce son durum açýklamasýdýr. TAHSÝLAT TUTARI 
+ Tahsilatlý Kargo tahsilat tutarýdýr. MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 19 / 78 Revizyon Tarihi 
+ 31.07.2017  TAHSÝLAT TÝPÝ 
+ Tahsilat Tipi (1:Nakit, 6:Kredi Kartý) VALOUR_DATE 
+ Vade tarihidir ÖDEME TUTARI 
+ Müþteriye Ödenen Tutardýr. ÖDEME TARÝHÝ 
+ Ödeme iþleminin yapýldýðý tarihtir TAHSÝLAT ÝPTAL 
+ Tahsilat durumunun iptal olup olmadýðýný gösterir. (Ýptal ise 1, iptal deðil ise 0 deðerini alýr) Kullaným Örneði;string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>"; string queryInfo = @"<QueryInfo> <QueryType>11</QueryType> 
+<IntegrationCode>code</IntegrationCode> </QueryInfo>"; 2.2.12. QueryType = 12: . Ýki Tarih aralýðýna göre (Ýrsaliye Tarihi), kargolarýn listesini verir. KOLON ADI 
+ AÇIKLAMA MÜÞTERÝ ÖZEL KODU 
+ Müþteri Özel Kodudur ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr GÖNDERÝCÝ 
+ Kargoyu gönderenin adresinin adýdýr. ALICI 
+ Alýcý Adresi Adýdýr KARGO LÝNK NO 
+ Kargo Link No KARGO TAKÝP NO 
+ Kargo takip No ÇIKIÞ ÞUBE 
+ Kargonun verildiði þube adýdýr. VARIÞ ÞUBE 
+ Kargoyu teslim edecek/eden þubenin adýdýr. ÇIKIÞ TARÝHÝ 
+ Ýrsaliye Tarihidir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür. ÖDEME TÝPÝ 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) TUTAR 
+ KDV Hariç tutardýr. REFERANS 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. 
+MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 20 / 78 Revizyon Tarihi 
+ 31.07.2017  TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. VARIÞ KODU 
+ Kargoyu teslim edecek/eden þubenin kodudur. TÝP KODU 
+ Kargonun yönlendirme durumunu gösteren koddur. (1:Normal, 2:Yönlendirildi, 3:Ýade edildi) DURUM KODU 
+ Kargonun son durumunu belirtir. (1:Çýkýþ Þubesinde, 2:Yolda, 3:Teslimat Þubesinde, 4:Teslimatta, 5:Parçalý Teslimat, 6:Teslim Edildi, 7:Yönlendirildi) DURUMU 
+ Kargonun son durum açýklamasýdýr. ÝADE SEBEBÝ 
+ Ýade sebebi açýklamasýdýr. DEVÝR KODU 
+ Devir kodu. (Bkz. KARGO DEVÝR NEDENLERÝ) WORLDWIDE 
+ Kargonun yurtdýþý olup olmadýðýný belirtir(Yurtdýþý ise 1; deðilse 0 deðerini alýr) KARGO KODU 
+ Kargo Kodudur. DURUM_EN 
+ Kargonun Ýngilizce son durum açýklamasýdýr. Kullaným Örneði;string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>";string queryInfo = @"<QueryInfo> <QueryType>12</QueryType> <StartDate>Tarih</ StartDate > <EndDate>Tarih</ EndDate > </QueryInfo>"; MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 21 / 78 Revizyon Tarihi 
+ 31.07.2017 2.2.13. QueryType = 13: . Ýki tarih aralýðýna göre (Ýrsaliya Tarihi), kargo listesini verir. . QueryType 12’den farklý olarak tahsilatlý kargo bilgilerini de içerir. KOLON ADI 
+ AÇIKLAMA MÜÞTERÝ ÖZEL KODU 
+ Müþteri Özel Kodudur ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr GÖNDERÝCÝ 
+ Kargoyu gönderenin adresinin adýdýr. ALICI 
+ Alýcý Adresi Adýdýr KARGO LÝNK NO 
+ Kargo Link No KARGO TAKÝP NO 
+ Kargo takip No ÇIKIÞ ÞUBE 
+ Kargonun verildiði þube adýdýr. ÇIKIÞ ÞUBE TEL 
+ Kargonun verildiði þubenin telefon numarasýdýr VARIÞ ÞUBE 
+ Kargoyu teslim edecek/eden þubenin adýdýr. VARIÞ ÞUBE TEL 
+ Kargoyu teslim edecek/eden þubenin telefon numarasýdýr ÇIKIÞ TARÝHÝ 
+ Ýrsaliye Tarihidir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür. ÖDEME TÝPÝ 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) TUTAR 
+ KDV Hariç tutardýr. REFERANS 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. VARIÞ KODU 
+ Kargoyu teslim edecek/eden þubenin kodudur. TÝP KODU 
+ Kargonun yönlendirme durumunu gösteren koddur. (1:Normal, 2:Yönlendirildi, 3:Ýade edildi) DURUM KODU 
+ Kargonun son durumunu belirtir. (1:Çýkýþ Þubesinde, 2:Yolda, 3:Teslimat Þubesinde, 4:Teslimatta, 5:Parçalý Teslimat, MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 22 / 78 Revizyon Tarihi 
+ 31.07.2017  6:Teslim Edildi, 7:Yönlendirildi) DURUMU 
+ Kargonun son durum açýklamasýdýr. WORLDWIDE 
+ Kargonun yurtdýþý olup olmadýðýný belirtir(Yurtdýþý ise 1; deðilse 0 deðerini alýr) KARGO KODU 
+ Kargo Kodudur. DURUM_EN 
+ Kargonun Ýngilizce son durum açýklamasýdýr. TAHSÝLAT TUTARI 
+ Tahsilatlý Kargo tahsilat tutarýdýr. TAHSÝLAT TÝPÝ 
+ Tahsilat Tipi (1:Nakit, 6:Kredi Kartý) VALOUR_DATE 
+ Vade tarihidir ÖDEME TUTARI 
+ Müþteriye Ödenen Tutardýr. ÖDEME TARÝHÝ 
+ Ödeme iþleminin yapýldýðý tarihtir ÝADE SEBEBÝ 
+ Ýade sebebi açýklamasýdýr. DEVÝR KODU 
+ Devir kodu. (Bkz. KARGO DEVÝR NEDENLERÝ)Kullaným Örneði;string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>";string queryInfo = @"<QueryInfo> <QueryType>13</QueryType> <StartDate>Tarih</ StartDate > <EndDate>Tarih</ EndDate > </QueryInfo>"; MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 23 / 78 Revizyon Tarihi 
+ 31.07.2017 2.2.14. QueryType = 14 . Kargo takip bilgisine göre (tracking number), belirli bir kargonun bilgisini verir. . Tek tek yada toplu olarak mök ile arama yapýlýr. . Mök bilgisi "," ile ayýrýlarak gönderilmelidir. KOLON ADI 
+ AÇIKLAMA MÜÞTERÝ ÖZEL KODU 
+ Müþteri Özel Kodudur ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr GÖNDERÝCÝ 
+ Kargoyu gönderenin adresinin adýdýr. ALICI 
+ Alýcý Adresi Adýdýr KARGO LÝNK NO 
+ Kargo Link No KARGO TAKÝP NO 
+ Kargo takip No ÇIKIÞ ÞUBE 
+ Kargonun verildiði þube adýdýr. VARIÞ ÞUBE 
+ Kargoyu teslim edecek/eden þubenin adýdýr. ÇIKIÞ TARÝHÝ 
+ Ýrsaliye Tarihidir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür. ÖDEME TÝPÝ 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) TUTAR 
+ KDV Hariç tutardýr. REFERANS 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. VARIÞ KODU 
+ Kargoyu teslim edecek/eden þubenin kodudur. TÝP KODU 
+ Kargonun yönlendirme durumunu gösteren koddur. (1:Normal, 2:Yönlendirildi, 3:Ýade edildi) DURUM KODU 
+ Kargonun son durumunu belirtir. (1:Çýkýþ Þubesinde, 2:Yolda, 3:Teslimat Þubesinde, 4:Teslimatta, 5:Parçalý Teslimat, 6:Teslim Edildi, 7:Yönlendirildi) DURUMU 
+ Kargonun son durum açýklamasýdýr. ÝADE SEBEBÝ 
+ Ýade sebebi açýklamasýdýr. DEVÝR KODU 
+ Devir kodu. (Bkz. KARGO DEVÝR NEDENLERÝ) WORLDWIDE 
+ Kargonun yurtdýþý olup olmadýðýný belirtir(Yurtdýþý ise 1; deðilse 0 deðerini alýr) KARGO KODU 
+ Kargo Kodudur. 
+MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 24 / 78 Revizyon Tarihi 
+ 31.07.2017  DURUM_EN 
+ Kargonun Ýngilizce son durum açýklamasýdýr.  Kullaným Örneði;string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>"; string queryInfo = @"<QueryInfo> 
+<QueryType>14</QueryType> 
+<TrackingNumber>TrackingNumber</ TrackingNumber > 
+<Code>Code</ Code > 
+</QueryInfo>"; 2.2.15. QueryType = 15: . Kargo hareket bilgilerini içerir. KOLON ADI 
+ AÇIKLAMA ÝÞLEM TARÝHÝ 
+ Ýþlem tarihidir. BÝRÝM 
+ Kargonun bulunduðu þubenin adýdýr. ÝÞLEM 
+ Kargonun hangi iþlemde olduðunu belirtir. (Örnek: Þubede araç yükleme, Aktarmada hat aracý indirme) 
+ Kullaným Örneði;string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>"; string queryInfo = @"<QueryInfo> 
+<QueryType>15</QueryType> 
+<IntegrationCode>code</IntegrationCode> MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 25 / 78 Revizyon Tarihi 
+ 31.07.2017  </QueryInfo>"; 2.2.16. QueryType = 16: . Ýki Tarih aralýðýna göre, kargolarýn devir bilgisini verir 
+ 
+KOLON ADI 
+ AÇIKLAMA MÜÞTERÝ ÖZEL KODU 
+ Müþteri Özel Kodudur ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr GÖNDERÝCÝ 
+ Kargoyu gönderenin adresinin adýdýr. ALICI 
+ Alýcý Adresi Adýdýr KARGO LÝNK NO 
+ Kargo Link No KARGO TAKÝP NO 
+ Kargo takip No ÇIKIÞ ÞUBE 
+ Kargonun verildiði þube adýdýr. VARIÞ ÞUBE 
+ Kargoyu teslim edecek/eden þubenin adýdýr. ÇIKIÞ TARÝH 
+ Ýrsaliye Tarihidir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür. ÖDEME TÝPÝ 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) TUTAR 
+ KDV Hariç tutardýr. REFERANS 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. VARIÞ KODU 
+ Kargoyu teslim edecek/eden þubenin kodudur. TÝP KODU 
+ Kargonun yönlendirme durumunu gösteren koddur. (1:Normal, 2:Yönlendirildi, 3:Ýade edildi) DURUM KODU 
+ Kargonun son durumunu belirtir. (1:Çýkýþ Þubesinde, 2:Yolda, 3:Teslimat Þubesinde, 4:Teslimatta, 5:Parçalý Teslimat, 6:Teslim Edildi, 7:Yönlendirildi) DURUMU 
+ Kargonun son durum açýklamasýdýr. ÝADE SEBEBÝ 
+ Ýade sebebi açýklamasýdýr. DEVÝR KODU 
+ Devir kodu. (Bkz. KARGO DEVÝR NEDENLERÝ) WORLDWIDE 
+ Kargonun yurtdýþý olup olmadýðýný belirtir(Yurtdýþý ise 1; deðilse 0 deðerini alýr) KARGO KODU 
+ Kargo Kodudur. DURUM_EN 
+ Kargonun Ýngilizce son durum açýklamasýdýr. 
+MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 26 / 78 Revizyon Tarihi 
+ 31.07.2017  Kullaným Örneði;string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>";string queryInfo = @"<QueryInfo> <QueryType>16</QueryType> <StartDate>Tarih</ StartDate > <EndDate>Tarih</ EndDate > </QueryInfo>";2.2.17. QueryType = 18: . Ýki Tarih aralýðýna göre, kargolarýn listesini verir. KOLON ADI 
+ AÇIKLAMA MÜÞTERÝ ÖZEL KODU 
+ Müþteri Özel Kodudur MÜÞTERÝ KODU 
+ Müþteri kodudur. ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr NAME 
+ Müþteri Adý GÖNDERÝCÝ ADI 
+ Kargoyu gönderenin adresinin adýdýr. ALICI ADI 
+ Alýcý Adresi Adýdýr ÇIKIÞ ÞUBESÝ 
+ Kargonun verildiði þube adýdýr. VARIÞ ÞUBESÝ 
+ Kargoyu teslim edecek/eden þubenin adýdýr. DÜZENLEME TARÝHÝ 
+ Kargo kaydýnýn oluþturulduðu tarihtir. REFERANS NO 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. ÞEHÝR 
+ Kargonun teslim edileceði þehirdir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür. TUTAR 
+ KDV Hariç tutardýr. ÝADE 
+ Ýade edilip edilmediðini gösterir. (Evet /Hayýr) KARGO KODU 
+ Kargo Kodudur. TRACKINGNUMBER 
+ Kargo Takip Numarasýdýr. MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 27 / 78 Revizyon Tarihi 
+ 31.07.2017   Kullaným Örneði; string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>";string queryInfo = @"<QueryInfo> <QueryType>18</QueryType> <StartDate>Tarih</ StartDate > <EndDate>Tarih</ EndDate > </QueryInfo>"; 2.2.18. QueryType = 19: . Ýki Tarih aralýðýna gore (Ýrsaliye Tarihi), kargolarýn bilgisini verir. KOLON ADI 
+ AÇIKLAMA MÜÞTERÝ ÖZEL KODU 
+ Müþteri Özel Kodudur ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr REFERANS 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. ÝRSALÝYE TARÝHÝ 
+ Ýrsaliye Tarihidir. GÖNDERÝCÝ 
+ Kargoyu gönderenin adresinin adýdýr. ALICI 
+ Alýcý Adresi Adýdýr ÇIKIÞ ÞUBE 
+ Kargonun verildiði þube adýdýr. VARIÞ ÞUBE 
+ Kargoyu teslim edecek/eden þubenin adýdýr. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür. TUTAR 
+ KDV Hariç tutardýr. ÖDEME TÝPÝ 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. VARIÞ KODU 
+ Kargoyu teslim edecek/eden þubenin kodudur. AÇIKLAMA 
+ Yönlendirme nedenidir. SEBEP 
+ Devir nedenidir. DURUM 
+ Kargonun son durum açýklamasýdýr. WORLDWIDE 
+ Kargonun yurtdýþý olup olmadýðýný belirtir(Yurtdýþý ise 1; deðilse 0 deðerini alýr) KARGO KODU 
+ Kargo Kodudur. MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 28 / 78 Revizyon Tarihi 
+ 31.07.2017  TRACKINGNUMBER 
+ Kargo Takip Numarasýdýr.Kullaným Örneði; string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>";string queryInfo = @"<QueryInfo> <QueryType>19</QueryType> <StartDate>Tarih</ StartDate > <EndDate>Tarih</ EndDate > </QueryInfo>"; MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 29 / 78 Revizyon Tarihi 
+ 31.07.2017  2.2.19. QueryType = 21: . Müþteri parça numarasýna göre kargo bilgisi verir. . Son 90 gün içinde kesilen irsaliyelerin arasýnda arar. KOLON ADI 
+ AÇIKLAMA MÜÞTERÝ ÖZEL KODU 
+ Müþteri Özel Kodudur ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr GÖNDERÝCÝ 
+ Kargoyu gönderenin adresinin adýdýr. ALICI 
+ Alýcý Adresi Adýdýr KARGO LÝNK NO 
+ Kargo Link No KARGO TAKÝP NO 
+ Kargo takip No ÇIKIÞ ÞUBE 
+ Kargonun verildiði þube adýdýr. VARIÞ ÞUBE 
+ Kargoyu teslim edecek/eden þubenin adýdýr. ÇIKIÞ TARÝHÝ 
+ Ýrsaliye Tarihidir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür. ÖDEME TÝPÝ 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) TUTAR 
+ KDV Hariç tutardýr. REFERANS 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. VARIÞ KODU 
+ Kargoyu teslim edecek/eden þubenin kodudur. TÝP KODU 
+ Kargonun yönlendirme durumunu gösteren koddur. (1:Normal, 2:Yönlendirildi, 3:Ýade edildi) DURUM KODU 
+ Kargonun son durumunu belirtir. (1:Çýkýþ Þubesinde, 2:Yolda, 3:Teslimat Þubesinde, 4:Teslimatta, 5:Parçalý Teslimat, 6:Teslim Edildi, 7:Yönlendirildi) DURUMU 
+ Kargonun son durum açýklamasýdýr. ÝADE SEBEBÝ 
+ Ýade sebebi açýklamasýdýr. DEVÝR KODU 
+ Devir kodu. (Bkz. KARGO DEVÝR NEDENLERÝ) WORLDWIDE 
+ Kargonun yurtdýþý olup olmadýðýný belirtir(Yurtdýþý ise 1; deðilse 0 deðerini alýr) KARGO KODU 
+ Kargo Kodudur. DURUM_EN 
+ Kargonun Ýngilizce son durum açýklamasýdýr. MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 30 / 78 Revizyon Tarihi 
+ 31.07.2017  Kullaným Örneði;string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>"; string queryInfo = @"<QueryInfo> <QueryType>21</QueryType> 
+<IntegrationCode>code</IntegrationCode> 
+</QueryInfo>"; MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 31 / 78 Revizyon Tarihi 
+ 31.07.2017  2.2.20. QueryType = 22: . TrackingNumber ile çalýþmaktadýr. . Birden fazla dataset döner . Sadece GetQueryDS'de mevcuttur.. Kargo Durumuyla ilgili genel bilgi verir 
+ 
+KOLON ADI 
+ AÇIKLAMA ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr KARGO TAKÝP NO 
+ Müþteri Adý ÝRSALÝYE TARÝHÝ 
+ Gönderi Kaydý Oluþturma tarihidir PLANLANAN TESLÝMAT SÜRESÝ 
+ Kargonun, planlanan teslimat süresidir. GÖNDERÝCÝ 
+ Kargoyu gönderenin adresinin adýdýr. ALICI 
+ Alýcý Adresi Adýdýr AMBALAJ TÝPÝ 
+ Kargonun ambalaj tipidir.(1:Dosya, 2:Koli, 3:Mi, 4:Paket, 5:Torba, 6:Sandýk, 7:Palet) ÜCRETLÝ ÝADE 
+ Kargonun ücretli iade olup olmadýðýný gösterir.(1:Evet, 2:Hayýr) GERÝ DÖNÜÞLÜ 
+ Kargonun geri dönüþlü olup olmadýðýný gösterir. (1:Evet, 2:Hayýr). Eðer kargo geri dönüþlü ise bu dataset dolu gelir ve geri dönüþ teslimat bilgilerini içerir KOLON ADI 
+ AÇIKLAMA ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr KARGO TAKÝP NO 
+ Kargo takip No GÖNDERÝ DURUMU 
+ Kargonun son durum açýklamasýdýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. 
+ 
+. Eðer kargo Geri Dönüþlü deðilse bu dataset dolu gelir ve kargo teslimat bilgilerini içerir. KOLON ADI 
+ AÇIKLAMA ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr KARGO TAKÝP NO 
+ Kargo takip No GÖNDERÝ DURUMU 
+ Kargonun son durum açýklamasýdýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 32 / 78 Revizyon Tarihi 
+ 31.07.2017  TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir.. Kargonun devir bilgilerini içerir. KOLON ADI 
+ AÇIKLAMA ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr KARGO TAKÝP NO 
+ Kargo takip No DEVÝR_TARÝHÝ 
+ Devir açýklamasýdýr. DEVÝR_NEDENÝ 
+ Devir nedenidir. DEVÝR_KODU 
+ Devir kodu. (Bkz. KARGO DEVÝR NEDENLERÝ). Kargo Yönlendirme ve Ýade Hareketleri ve Nedenlerini içerir KOLON ADI 
+ AÇIKLAMA ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr. KARGO TAKÝP NO 
+ Kargo Takip Numarasýdýr. GÖNDERÝ TÝPÝ 
+ Kargo gönderi tipidir.(1:Normal, 2:Yönlendirme, 3:Ýade) YÖNLENDÝRME TARÝHÝ 
+ Yönlendirme tarihidir. YÖNLENDÝREN BÝRÝM 
+ Kargoyu yönlendiren þubenin adýdýr. YÖNLENDÝRÝLEN BÝRÝM 
+ Kargonun yönlendirildiði þubenin adýdýr. YÖNLENDÝRME KODU 
+ Yönlendirme kodu YÖNLENDÝRME NEDENÝ 
+ Yönlendirme nedenidir. (Müþteri isteði ile, varýþ merkezi hatasý) 
+ . Geri Dönüþlü Kargo Bilgilerini içerir KOLON ADI 
+ AÇIKLAMA ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr KARGO TAKÝP NO 
+ Kargo takip No GÖNDERÝ TÝPÝ 
+ Kargo gönderi tipidir.(1:Normal, 2:Yönlendirme, 3:Ýade) GÖNDERÝ DURUMU 
+ Kargonun son durum açýklamasýdýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. 
+Kullaným Örneði; MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 33 / 78 Revizyon Tarihi 
+ 31.07.2017  string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>"; string queryInfo = @"<QueryInfo> <QueryType>22</QueryType> 
+<TrackingNumber>TrackingNumber</ TrackingNumber > 
+</QueryInfo>";2.2.21. QueryType = 23: . Fatura Bilgilerini Döner . Normal Fatura ve E-Fatura aramasý yapýlabilir. . Fatura No ve Fatura Tipi parametre olarak geçilir. ReportType= 1 ise Efatura ReportType = 2 ise Normal Fatura ReportType= 1 ise: KOLON ADI 
+ AÇIKLAMA FATURA SERÝ NO 
+ E-Fatura Seri ve E-Fatura No bilgileridir KDVSÝZ TUTAR 
+ E-Faturanýn kdvsiz tutarýný gösterir KDV 
+ Kdv tutarýný gösterir ÝRSALÝYE ADET 
+ E-Faturaya baðlý toplam irsaliye adetini gösterir TOPLAM DESÝ 
+ E-Faturaya baðlý irsaliyelerin toplam desisini gösterir AÇIKLAMA 
+ E-Fatura açýklamasýdýr ReportType = 2 ise: 
+   KOLON ADI 
+ AÇIKLAMA IRSALIYE_SERI_NO 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr IRSALIYE_TARIHI 
+ Ýrsaliye Tarihidir ODEME_TIPI 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) CIKIS_SUBESI 
+ Faturanýn çýkýþ þubesidir. TESLIMAT_SUBESI 
+ Faturanýn teslimat þubesidir GONDERICI_ADI 
+ Kargoyu gönderenin adresinin adýdýr. ALICI_KODU 
+ Alýcý Müþteri kodudur. ALICI_ADI 
+ Alýcý Adresi Adýdýr MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 34 / 78 Revizyon Tarihi 
+ 31.07.2017  VARIS_ILI 
+ Kargonun varýþ ilidir VARIS_ILCESI 
+ Kargonun varýþ ilçesidir ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür. TUTAR 
+ KDV Hariç tutardýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. MUSTERI_IRSALIYE_NO 
+ Müþterinin gönderdiði irsaliye numarasýdýr MOK 
+ Müþteri Özel Kodudur TAHSILATLI_KARGO 
+ Kargonun tahsilatlý kargo olup olmadýðýný gösterir. (1:Evet, 2:Hayýr) GERCEKLESEN_TAHS_TIPI 
+ Tahsilat Tipi (1:Nakit, 6:Kredi Kartý) TAHSILAT_BEDELI 
+ Tahsilatlý Kargo tahsilat tutarýdýr. ODEME_TUTARI 
+ Müþteriye Ödenen Tutardýr. ODEMETARIHI 
+ Ödeme iþleminin yapýldýðý tarihtir TRACKINGNUMBER 
+ Kargo Takip No KOMISYON TUTARI 
+ Tahsilatlý Kargo Komisyon Bedelidir STANDART KARGO 
+ Gönderi kaydýndaki standart kargo fiyatýdýr. TAHSILATLI KARGO 
+ Gönderi kaydýndaki tahsilatlý kargo fiyatýdýr. GERI DONUSLU 
+ Gönderi kaydýndaki geri dönüþ fiyatýdýr GERI DONUSLU DONUS 
+ Gönderi kaydýndaki geri dönüþlü dönüþ fiyatýdýr GUNAYDIN KARGO 
+ Gönderi kaydýndaki günaydýn kargo fiyatýdýr GUNICI KARGO 
+ Gönderi kaydýndaki güniçi kargo fiyatýdýr UCAK KARGO 
+ Gönderi kaydýndaki uçak kargo fiyatýdýr ADRESTEN ALIM 
+ Gönderi kaydýndaki adresten alým fiyatýdýr ADRESE TESLIM 
+ Gönderi kaydýndaki adrese teslim fiyatýdýr SMS ALICIYA 
+ Gönderi kaydýndaki sms alýcýya fiyatýdýr SMS GONDERICIYE 
+ Gönderi kaydýndaki sms göndericiye fiyatýdýr SEVK SMS 
+ Gönderi kaydýndaki sevk sms fiyatýdýr TASIMA GUVENCESI 
+ Gönderi kaydýndaki taþýma güvencesi fiyatýdýr        Kullaným Örneði; MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 35 / 78 Revizyon Tarihi 
+ 31.07.2017  string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>"; string queryInfo = @"<QueryInfo> <QueryType>22</QueryType> 
+<ReportType>1</ReportType> 
+<InvoiceSerialNumber>AAA201400040405 
+</InvoiceSerialNumber> 
+</QueryInfo>";2.2.22. QueryType = 24: . Barkod ile kargo bilgisi sorgulama . Son 90 gün içinde kesilen irsaliyelerin arasýnda arar. KOLON ADI 
+ AÇIKLAMA MÜÞTERÝ ÖZEL KODU 
+ Müþteri Özel Kodudur ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr GÖNDERÝCÝ ADI 
+ Kargoyu gönderenin adýdýr. GÖNDERÝCÝ ADRES ADI 
+ Kargoyu gönderenin adresinin adýdýr. ALICI ADRES ADI 
+ Alýcý Adresi Adýdýr GÖNDERÝCÝ ADRESÝ 
+ Gönderici Adres Adýdýr GÖNDERÝCÝ TELEFONU 
+ Gönderici müþterinin telefonudur. CITY 
+ Kargonun teslim edileceði þehirdir. TOWN 
+ Kargonun teslim edileceði ilçedir. KARGO LÝNK NO 
+ Kargo Link No KARGO TAKÝP NO 
+ Kargo takip No ÇIKIÞ ÞUBE 
+ Kargonun verildiði þube adýdýr. VARIÞ ÞUBE 
+ Kargoyu teslim edecek/eden þubenin adýdýr. ÇIKIÞ TARÝH 
+ Ýrsaliye Tarihidir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür. ÖDEME TÝPÝ 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) TUTAR 
+ KDV Hariç tutardýr. REFERANS 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 36 / 78 Revizyon Tarihi 
+ 31.07.2017  TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. VARIÞ KODU 
+ Kargoyu teslim edecek/eden þubenin kodudur. TÝP KODU 
+ Kargonun yönlendirme durumunu gösteren koddur. (1:Normal, 2:Yönlendirildi, 3:Ýade edildi) DURUM KODU 
+ Kargonun son durumunu belirtir. (1:Çýkýþ Þubesinde, 2:Yolda, 3:Teslimat Þubesinde, 4:Teslimatta, 5:Parçalý Teslimat, 6:Teslim Edildi, 7:Yönlendirildi) DURUMU 
+ Kargonun son durum açýklamasýdýr. ÝADE SEBEBÝ 
+ Ýade sebebi açýklamasýdýr. DEVÝR KODU 
+ Devir kodu. (Bkz. KARGO DEVÝR NEDENLERÝ) WORLDWIDE 
+ Kargonun yurtdýþý olup olmadýðýný belirtir(Yurtdýþý ise 1; deðilse 0 deðerini alýr) KARGO KODU 
+ Kargo Kodudur. DURUM_EN 
+ Kargonun Ýngilizce son durum açýklamasýdýr.Kullaným Örneði;string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>";string queryInfo = @"<QueryInfo> <QueryType>24</QueryType> <Barcode> Barcode </ Barcode > </QueryInfo>"; MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 37 / 78 Revizyon Tarihi 
+ 31.07.2017  2.2.23. QueryType = 25: . Fatura bilgilerini Vade Tarihi - Ödeme Tarihi - Teslim Tarihinine göre dönen . DateType 1,2,3 e göre farklý query çalýþýr. . Son 90 gün içinde kesilen irsaliyelerin arasýnda arar. KOLON ADI 
+ AÇIKLAMA MÜÞTERÝ ÖZEL KODU 
+ Müþteri Özel Kodudur ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr GÖNDERÝCÝ 
+ Kargoyu gönderenin adresinin adýdýr. ALICI 
+ Alýcý Adresi Adýdýr KARGO LÝNK NO 
+ Kargo Link No KARGO TAKÝP NO 
+ Kargo takip No ÇIKIÞ ÞUBE 
+ Kargonun verildiði þube adýdýr. ÇIKIÞ ÞUBE TEL 
+ Kargonun verildiði þubenin telefon numarasýdýr VARIÞ ÞUBE 
+ Kargoyu teslim edecek/eden þubenin adýdýr. VARIÞ ÞUBE TEL 
+ Kargoyu teslim edecek/eden þubenin telefon numarasýdýr ÇIKIÞ TARÝH 
+ Ýrsaliye Tarihidir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür. ÖDEME TÝPÝ 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) TUTAR 
+ KDV Hariç tutardýr. REFERANS 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. VARIÞ KODU 
+ Kargoyu teslim edecek/eden þubenin kodudur. TÝP KODU 
+ Kargonun yönlendirme durumunu gösteren koddur. (1:Normal, 2:Yönlendirildi, 3:Ýade edildi) DURUM KODU 
+ Kargonun son durumunu belirtir. (1:Çýkýþ Þubesinde, 2:Yolda, 3:Teslimat Þubesinde, 4:Teslimatta, 5:Parçalý Teslimat, 6:Teslim Edildi, 7:Yönlendirildi) ÝADE SEBEBÝ 
+ Ýade sebebi açýklamasýdýr. DEVÝR KODU 
+ Devir kodu. (Bkz. KARGO DEVÝR NEDENLERÝ) DURUMU 
+ Kargonun son durum açýklamasýdýr. WORLDWIDE 
+ Kargonun yurtdýþý olup olmadýðýný belirtir(Yurtdýþý ise 1; deðilse 0 deðerini alýr) KARGO KODU 
+ Kargo Kodudur. DURUM_EN 
+ Kargonun Ýngilizce son durum açýklamasýdýr. MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 38 / 78 Revizyon Tarihi 
+ 31.07.2017  TAHSÝLAT TUTARI 
+ Tahsilatlý Kargo tahsilat tutarýdýr. TAHSÝLAT TÝPÝ 
+ Tahsilat Tipi (1:Nakit, 6:Kredi Kartý) VALOUR_DATE 
+ Vade tarihi ÖDEME TUTARI 
+ Müþteriye Ödenen Tutardýr. ÖDEME TARÝHÝ 
+ Ödeme iþleminin yapýldýðý tarihtir TAHSÝLAT ÝPTAL 
+ Tahsilat durumunun iptal olup olmadýðýný gösterir. (Ýptal ise 1, iptal deðil ise 0 deðerini alýr) Kullaným Örneði;string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>";string queryInfo = @"<QueryInfo> <QueryType>25</QueryType> <DateType>1</ DateType > </QueryInfo>";   2.2.24. QueryType = 26  . MÖK ile çalýþmaktadýr. . Birden fazla dataset döner . Sadece GetQueryDS'de mevcuttur.. Kargo Durumuyla ilgili genel bilgi verir   KOLON ADI 
+ AÇIKLAMA ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 39 / 78 Revizyon Tarihi 
+ 31.07.2017  KARGO TAKÝP NO 
+ Müþteri Adý ÝRSALÝYE TARÝHÝ 
+ Gönderi Kaydý Oluþturma tarihidir PLANLANAN TESLÝMAT SÜRESÝ 
+ Kargonun, planlanan teslimat süresidir. GÖNDERÝCÝ 
+ Kargoyu gönderenin adresinin adýdýr. ALICI 
+ Alýcý Adresi Adýdýr AMBALAJ TÝPÝ 
+ Kargonun ambalaj tipidir.(1:Dosya, 2:Koli, 3:Mi, 4:Paket, 5:Torba, 6:Sandýk, 7:Palet) ÜCRETLÝ ÝADE 
+ Kargonun ücretli iade olup olmadýðýný gösterir.(1:Evet, 2:Hayýr) GERÝ DÖNÜÞLÜ 
+ Kargonun geri dönüþlü olup olmadýðýný gösterir. (1:Evet, 2:Hayýr). Eðer kargo geri dönüþlü ise bu dataset dolu gelir ve geri dönüþ teslimat bilgilerini içerir KOLON ADI 
+ AÇIKLAMA ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr KARGO TAKÝP NO 
+ Kargo takip No GÖNDERÝ DURUMU 
+ Kargonun son durum açýklamasýdýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir.. Eðer kargo Geri Dönüþlü deðilse bu dataset dolu gelir ve kargo teslimat bilgilerini içerir. KOLON ADI 
+ AÇIKLAMA ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr KARGO TAKÝP NO 
+ Kargo takip No GÖNDERÝ DURUMU 
+ Kargonun son durum açýklamasýdýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir.. Kargonun devir bilgilerini içerir. KOLON ADI 
+ AÇIKLAMA ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr KARGO TAKÝP NO 
+ Kargo takip No DEVÝR_TARÝHÝ 
+ Devir açýklamasýdýr. DEVÝR_NEDENÝ 
+ Devir nedenidir. MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 40 / 78 Revizyon Tarihi 
+ 31.07.2017  DEVÝR_KODU 
+ Devir kodu. (Bkz. KARGO DEVÝR NEDENLERÝ). Kargo Yönlendirme ve Ýade Hareketleri ve Nedenlerini içerir KOLON ADI 
+ AÇIKLAMA ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr. KARGO TAKÝP NO 
+ Kargo Takip Numarasýdýr. GÖNDERÝ TÝPÝ 
+ Kargo gönderi tipidir.(1:Normal, 2:Yönlendirme, 3:Ýade) YÖNLENDÝRME TARÝHÝ 
+ Yönlendirme tarihidir. YÖNLENDÝREN BÝRÝM 
+ Kargoyu yönlendiren þubenin adýdýr. YÖNLENDÝRÝLEN BÝRÝM 
+ Kargonun yönlendirildiði þubenin adýdýr. YÖNLENDÝRME KODU 
+ Yönlendirme kodu YÖNLENDÝRME NEDENÝ 
+ Yönlendirme nedenidir. (Müþteri isteði ile, varýþ merkezi hatasý) 
+ . Geri Dönüþlü Kargo Bilgilerini içerir KOLON ADI 
+ AÇIKLAMA ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr KARGO TAKÝP NO 
+ Kargo takip No GÖNDERÝ TÝPÝ 
+ Kargo gönderi tipidir.(1:Normal, 2:Yönlendirme, 3:Ýade) GÖNDERÝ DURUMU 
+ Kargonun son durum açýklamasýdýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. 
+       Kullaným Örneði; string loginInfo = @"<LoginInfo> MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 41 / 78 Revizyon Tarihi 
+ 31.07.2017  <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>"; string queryInfo = @"<QueryInfo> 
+<QueryType>26</QueryType> <IntegrationCode>code</IntegrationCode> 
+</QueryInfo>";2.2.25. QueryType = 30 . Sadece gelen kargolarýn sorgulamasý yapýlýr. . Tarih, Entegrasyon Kodu, Kargo Takip No, Kargo Kodu, KTF Kodu ile sorgulama yapýlýr. . Ýki Tarih arasýnda sorgulama yapýlabilir. Geriye dönük olarak en fazla 1 aylýk sorgulama yapýlabilmektedir. KOLON ADI 
+ AÇIKLAMA MUSTERI OZEL KODU 
+ Entegrasyon kodudur GONDERICI 
+ Kargoyu gönderenin adresinin adýdýr. ALICI 
+ Alýcý Adresi Adýdýr KARGO TAKIP NO 
+ Kargo takip No CIKIS SUBESI 
+ Kargonun verildiði þube adýdýr. VARIS_SUBESI 
+ Kargoyu teslim edecek/eden þubenin adýdýr. IRSALIYE NUMARASI 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr. IRSALÝYE TARÝHÝ 
+ Ýrsaliye Tarihidir. ADET 
+ Kargo parça sayýsýdýr. DESI 
+ Kargonun Ölçüsüdür. ODEME_TIPI 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) TUTAR 
+ KDV Hariç tutardýr. TESLIM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLIM TARIHI 
+ Kargonun teslim edildiði tarihtir. TESLIM SAATI 
+ Kargonun teslim edildiði saattir. TIP KODU 
+ Kargonun yönlendirme durumunu gösteren koddur. (1:Normal, 2:Yönlendirildi, 3:Ýade edildi) DURUM KODU 
+ Kargonun son durumunu belirtir. (1:Çýkýþ Þubesinde, 2:Yolda, 3:Teslimat Þubesinde, 4:Teslimatta, 5:Parçalý Teslimat, 6:Teslim Edildi, 7:Yönlendirildi) ÝADE SEBEBÝ 
+ Ýade sebebi açýklamasýdýr. 
+MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 42 / 78 Revizyon Tarihi 
+ 31.07.2017  SEHIR 
+ Kargonun teslim edildiði þehirdir    Kullaným Örneði; . Ýki Tarih Arasý Sorgulama Örneðistring loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>";string queryInfo = @"<QueryInfo> <QueryType>30</QueryType> <StartDate>15.02.2015</StartDate> <EndDate>22.02.2015</EndDate> </QueryInfo>"; . MÖK ile Sorgulama Örneðistring loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>"; string queryInfo = @"<QueryInfo> 
+<QueryType>30</QueryType> 
+<IntegrationCode>code</IntegrationCode> 
+</QueryInfo>"; . Kargo Takip No ile Sorgulama Örneði MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 43 / 78 Revizyon Tarihi 
+ 31.07.2017  string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>";string queryInfo = @"<QueryInfo> <QueryType>30</QueryType> <TrackingNumber>5392379038335</TrackingNumber> </QueryInfo>"; . Barkod No ile Sorgulama Örneðistring loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>"; string queryInfo = @"<QueryInfo> <QueryType>30</QueryType> <Barcode>1100523923790380515150916000010011</Barcode> </QueryInfo>"; . KTF No ile Sorgulama Örneðistring loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>"; string queryInfo = @"<QueryInfo> <QueryType>30</QueryType> 
+<KtfBarcodeNo>0000052392379038051515</KtfBarcodeNo> </QueryInfo>"; MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 44 / 78 Revizyon Tarihi 
+ 31.07.2017  2.2.26. QueryType = 31 . Bugün teslim edilen kargo sayýsýný döner KOLON ADI 
+ AÇIKLAMA Count 
+ Teslim edilen kargolarýn sayýsý     Kullaným Örneði;  string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>";string queryInfo = @"<QueryInfo> <QueryType>31</QueryType> </QueryInfo>";2.2.27. QueryType = 36 . Kampanya kodu bilgilerini döner 
+ 
+KOLON ADI 
+ AÇIKLAMA CAMPAIGNCODE 
+ Kampanya Kodu NAME 
+ Müþteri Adý usage_amount 
+ Kullaným Miktarý/Tutarý CAMPAIGN_FINISH_DATE 
+ Kampanya Bitiþ Tarihi 
+Kullaným Örneði;  string loginInfo = @"<LoginInfo> MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 45 / 78 Revizyon Tarihi 
+ 31.07.2017  <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>"; string queryInfo = @"<QueryInfo> 
+<QueryType>36</QueryType> <CampaignCode>code</ CampaignCode > 
+</QueryInfo>";   2.2.28. QueryType = 37 . Müþteri özel koduna göre belirli bir kargonun bilgilerini döner(tahsilat bilgileri ile) KOLON ADI 
+ AÇIKLAMA MUSTERI_OZEL_KODU 
+ Müþteri Özel Kodudur IRSALIYE_NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr GONDERICI 
+ Kargoyu gönderenin adresinin adýdýr. ALICI 
+ Alýcý Adresi Adýdýr KARGO_LINK_NO 
+ Kargo link no’sudur KARGO_TAKIP_NO 
+ Kargonun takip numarasýdýr CIKIS_SUBE 
+ Kargonun verildiði þube adýdýr. CIKIS_SUBE_TEL 
+ Kargonun verildiði þubenin telefonudur VARIS_SUBE 
+ Kargonun teslim edileceði þube adýdýr VARIS_SUBE_TEL 
+ Kargonun teslim edileceði þubenin telefonudur CIKIS_TARIH 
+ Ýrsaliye Tarihidir. ADET 
+ Kargo parça sayýsýdýr. DESI 
+ Kargonun Ölçüsüdür. ODEME_TIPI 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) TUTAR(KDV’SÝZ) 
+ KDV Hariç tutardýr. REFERANS 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. TESLIM_ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLIM_TARIHI 
+ Kargonun teslim edildiði tarihtir. TESLIM_SAATI 
+ Kargonun teslim edildiði saattir. VARIS_KODU 
+ Kargoyu teslim edecek/eden þubenin kodudur. TIP_KODU 
+ Kargonun yönlendirme durumunu gösteren koddur. (1:Normal, 2:Yönlendirildi, 3:Ýade edildi) DURUM_KODU 
+ Kargonun son durumunu belirtir. 
+MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 46 / 78 Revizyon Tarihi 
+ 31.07.2017  (1:Çýkýþ Þubesinde, 2:Yolda, 3:Teslimat Þubesinde, 4:Teslimatta, 5:Parçalý Teslimat, 6:Teslim Edildi, 7:Yönlendirildi) IADE_SEBEBI 
+ Ýade nedeni açýklamasýdýr. DEVIR_SEBEBI 
+ Devir sebebi açýklamasýdýr DEVIR_KODU 
+ Devir kodu. (Bkz. KARGO DEVÝR NEDENLERÝ) DURUMU 
+ Kargonun son durum açýklamasýdýr. WORLDWIDE 
+ Kargonun yurtdýþý olup olmadýðýný belirtir(Yurtdýþý ise 1; deðilse 0 deðerini alýr) KARGO_KODU 
+ Kargo Kodudur. DURUM_EN 
+ Kargonun Ýngilizce son durum açýklamasýdýr. TAHSILAT_TUTARI 
+ Tahsilat Tutarýdýr TAHSILAT_TIPI 
+ Tahsilat Tipi (1:Nakit, 6:Kredi Kartý) VALOUR_DATE 
+ Vade tarihidir ODEME_TUTARI 
+ Müþteriye Ödenen Tutardýr. ODEMETARIHI 
+ Ödeme iþleminin yapýldýðý tarihtir TAHSILAT_IPTAL 
+ Tahsilat durumunun iptal olup olmadýðýný gösterir. (Ýptal ise 1, iptal deðil ise 0 deðerini alýr) HACIMSEL_AGIRLIK 
+ Kargonun hacimsel aðýrlýðýdýr(desi) AGIRLIK 
+ Kargonun kilosudur.  Kullaným Örneði;  string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>"; string queryInfo = @"<QueryInfo> <QueryType>37</QueryType> 
+<CustomerCode>code</ CustomerCode > 
+<IntegrationCode>code</ IntegrationCode > </QueryInfo>"; MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 47 / 78 Revizyon Tarihi 
+ 31.07.2017  2.2.29. QueryType = 39 . Müþteri özel koduna göre kargo bilgilerini döner . Kod, birden fazla gönderilecek ise virgül ile ayýrarak yan yana gönderilir KOLON ADI 
+ AÇIKLAMA MUSTERI_OZEL_KODU 
+ Müþteri Özel Kodudur IRSALIYE_NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr GONDERICI 
+ Kargoyu gönderenin adresinin adýdýr. ALICI 
+ Alýcý Adresi Adýdýr KARGO_LINK_NO 
+ Kargo link no’sudur KARGO_TAKIP_NO 
+ Kargonun takip numarasýdýr CIKIS_SUBE 
+ Kargonun verildiði þube adýdýr. CIKIS_SUBE_TEL 
+ Kargonun verildiði þubenin telefonudur VARIS_SUBE 
+ Kargonun teslim edileceði þube adýdýr VARIS_SUBE_TEL 
+ Kargonun teslim edileceði þubenin telefonudur CIKIS_TARIH 
+ Ýrsaliye Tarihidir. CIKIS_SAATI 
+ Ýrsaliye Saatidir. ADET 
+ Kargo parça sayýsýdýr. KG_DESI 
+ Kargonun Ölçüsüdür. ODEME_TIPI 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) TUTAR(KDV’SÝZ) 
+ KDV Hariç tutardýr. REFERANS 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. TESLIM_ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLIM_TARIHI 
+ Kargonun teslim edildiði tarihtir. TESLIM_SAATI 
+ Kargonun teslim edildiði saattir. VARIS_KODU 
+ Kargoyu teslim edecek/eden þubenin kodudur. TIP_KODU 
+ Kargonun yönlendirme durumunu gösteren koddur. (1:Normal, 2:Yönlendirildi, 3:Ýade edildi) DURUM_KODU 
+ Kargonun son durumunu belirtir. (1:Çýkýþ Þubesinde, 2:Yolda, 3:Teslimat Þubesinde, 4:Teslimatta, 5:Parçalý Teslimat, 6:Teslim Edildi, 7:Yönlendirildi) TESLIM_EDILEMEME_NEDENI_KODU 
+ Devir kodu. (Bkz. KARGO DEVÝR NEDENLERÝ) DURUMU 
+ Kargonun son durum açýklamasýdýr. WORLDWIDE 
+ Kargonun yurtdýþý olup olmadýðýný belirtir(Yurtdýþý ise 1; deðilse 0 deðerini alýr) KARGO_KODU 
+ Kargo Kodudur. DURUM_EN 
+ Kargonun Ýngilizce son durum açýklamasýdýr. TAHSILAT_TUTARI 
+ Tahsilat Tutarýdýr TAHSILAT_TIPI 
+ Tahsilat Tipi (1:Nakit, 6:Kredi Kartý) MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 48 / 78 Revizyon Tarihi 
+ 31.07.2017  VALOUR_DATE 
+ Vade tarihidir ODEME_TUTARI 
+ Müþteriye Ödenen Tutardýr. ODEMETARIHI 
+ Ödeme iþleminin yapýldýðý tarihtir TAHSILAT_IPTAL 
+ Tahsilat durumunun iptal olup olmadýðýný gösterir. (Ýptal ise 1, iptal deðil ise 0 deðerini alýr) IADE_NEDENI 
+ Ýade nedeni açýklamasýdýr. DEVIR_NEDENI 
+ Devir sebebi açýklamasýdýr DEVIR_KODU 
+ Devir kodu. (Bkz. KARGO DEVÝR NEDENLERÝ) DEVIR_ACIKLAMA 
+ Devir açýklamasýdýr. ISLEM_TARIHI 
+ Kargonun gördüðü son iþlem tarihidir   Kullaným Örneði;  string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>"; string queryInfo = @"<QueryInfo> 
+<QueryType>39</QueryType> 
+<CustomerCode>code</ CustomerCode > 
+<IntegrationCode>code (birden fazla gönderilecek ise virgül ile ayýrarak yanyana gönderilir)</ IntegrationCode > </QueryInfo>";   2.2.30. QueryType = 40 . Kurumsal müþterilerimizin kendi anlaþmasýný kullandýrdýðý entegrasyon modeli üzerinden sevk edilen kargolarýn takip kodlarýný alabildiði servis tipidir. . Entegrasyon kodu ve tarih aralýðý ile sorgulama yapýlabilir. . Sorgulama kriteri olan Anlaþma ID bilgisi Aras Kargo tarafýndan paylaþýlmaktadýr. MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 49 / 78 Revizyon Tarihi 
+ 31.07.2017    Kullaným Örneði; Tarihe Göre Sorgulama için; string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>"; string queryInfo = @"<QueryInfo> <QueryType>40</QueryType> 
+<StartDate>01.01.2019</StartDate> 
+<EndDate>01.02.2019</EndDate> <AccountContractID>accountContractID</AccountContractID> 
+</QueryInfo>"; Entagrasyon Koduna Göre Sorgulama için; 
+string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>müþteri kodunuz</CustomerCode> </LoginInfo>"; string queryInfo = @"<QueryInfo> 
+<QueryType>40</QueryType> <IntegrationCode>code</IntegrationCode> 
+<AccountContractID>accountContractID</AccountContractID> 
+</QueryInfo>"; KOLON ADI 
+ AÇIKLAMA ENTEGRASYON_KODU 
+  KARGO_TAKIP_NO 
+ Kargonun takip numarasýdýr CIKIS_TARIH 
+ Ýrsaliye Tarihidir. ODEME_TIPI 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 50 / 78 Revizyon Tarihi 
+ 31.07.2017  ÜA=Ücreti alýcýdan) IADE 
+ Kargonun iade olup olmadýðý durumudur. (Evet/Hayýr)   2.2.31. QueryType = 41 . Aras Kargo kurumsal müþterilerine düzenlenen faturalarýnýn listesini getirmektedir. . Ýki tarih aralýðýnda sorgulama yapýlabilmektedir . En geniþ tarih aralýðý 1 aylýk olabilmektedir. . Geriye dönük en eski 1 yýllýk verilere ulaþýlabilmektedir.Kullaným Örneði; string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>müþteri kodunuz</CustomerCode> </LoginInfo>";string queryInfo = @"<QueryInfo> <QueryType>41</QueryType> <StartDate>startDate(ör:11.11.2018)</StartDate> <EndDate>endDate(ör: 12.11.2018)</EndDate> </QueryInfo>";  KOLON ADI 
+ AÇIKLAMA FATURA_SERINO 
+ E-Fatura Seri ve E-Fatura No bilgileridir FATURA_TARIHI 
+ E-Fatura Tarih bilgisidir KDVSIZ_TUTAR 
+ E-Faturanýn KDV siz tutarýný gösterir KDV_TUTARI 
+ KDV tutarýný gösterir IRSALIYE_ADET 
+ E-Faturaya baðlý toplam irsaliye adetini gösterir ODEME_DURUMU 
+ Faturanýn ödenme durumunu gösterir. MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 51 / 78 Revizyon Tarihi 
+ 31.07.2017     2.2.32. QueryType = 100 . Müþteriye kýsýtlý bilgiler gönderilir. Mök ile sorgulama yapýlýr. . Tek tek yada toplu halde sorgulama yapýlabilir. Toplu sorgularda mök'ler virgül ile ayýrýlýr. Örn: mök1,mök2 . Son 90 gün içinde kesilen irsaliyelerin arasýnda arar. KOLON ADI 
+ AÇIKLAMA MÜÞTERÝ ÖZEL KODU 
+ Müþteri Özel Kodudur ÝRSALÝYE NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr GÖNDERÝCÝ 
+ Kargoyu gönderenin adresinin adýdýr. ALICI 
+ Alýcý Adresi Adýdýr KARGO TAKÝP NO 
+ Kargo takip No ÇIKIÞ ÞUBE 
+ Kargonun verildiði þube adýdýr. VARIÞ ÞUBE 
+ Kargoyu teslim edecek/eden þubenin adýdýr. ÇIKIÞ TARÝHÝ 
+ Ýrsaliye Tarihidir. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. VARIÞ KODU 
+ Kargoyu teslim edecek/eden þubenin kodudur. TÝP KODU 
+ Kargonun yönlendirme durumunu gösteren koddur. (1:Normal, 2:Yönlendirildi, 3:Ýade edildi) DURUM KODU 
+ Kargonun son durumunu belirtir. (1:Çýkýþ Þubesinde, 2:Yolda, 3:Teslimat Þubesinde, 4:Teslimatta, 5:Parçalý Teslimat, 6:Teslim Edildi, 7:Yönlendirildi) DURUMU 
+ Kargonun son durum açýklamasýdýr. ÝADE SEBEBÝ 
+ Ýade sebebi açýklamasýdýr. DEVÝR KODU 
+ Devir kodu. (Bkz. KARGO DEVÝR NEDENLERÝ) 
+Kullaným Örneði;string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> </LoginInfo>"; MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 52 / 78 Revizyon Tarihi 
+ 31.07.2017  string queryInfo = @"<QueryInfo> <QueryType>100</QueryType> <IntegrationCode>code</IntegrationCode> </QueryInfo>";     2.2.33. QueryType = 101 . Müþteriye kýsýtlý bilgiler gönderilir. Tarih ve Mök ile sorgulama yapýlýr. . Sorgulama sadece haftalýk yapýlabilemktedir. Bir haftadan daha fazla süre için bu rapor alýnmak istendiðinde sistem hata mesajý döndürmektedir. Hata Mesajý: Bir haftadan daha fazla bir süre için bu raporu çekemezsiniz.  KOLON ADI 
+ AÇIKLAMA Ýþlem_tarihi 
+ Kargonun gördüðü son iþlem tarihidir Birim 
+ Kargonun en son gördüðü iþlemi yapan birimdir Ýþlem 
+ Kargonun gördüðü son iþlemdir aciklama 
+ Kargonun gördüðü son iþlemin detaylý açýklamasýdýr TRACKINGNUMBER 
+ Kargo Takip No TESLIM_TARIHI 
+ Kargonun alýcýsýna teslim edildiði tarihtir. TESLÝM_ALAN 
+ Kargoyu teslim alanýn adýdýr. ALICI_ADI 
+ Alýcý Adresi Adýdýr MOK 
+ Müþteri Özel Kodudur ADRES 
+ Kargonun teslim edildiði adres adýdýr SEHÝR 
+ Kargonun teslim edildiði þehirdir TEL 
+ Alýcý Telefon bilgisidir CIKIS_SUBE 
+ Kargonun verildiði þube adýdýr. CIKIS_TARIHI 
+ Ýrsaliye Tarihidir. GERI 
+ Evet/Hayýr GERI_DONUS_IRS 
+ Geri Dönüþ irsaliye bilgisidir 
+ 
+Kullaným Örneði; MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 53 / 78 Revizyon Tarihi 
+ 31.07.2017  . Müþteri Özel Koduna Göre Sorgulamastring loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> < AddressID >1234567895445555</AddressID > </LoginInfo>";  string queryInfo = @"<QueryInfo> <QueryType>101</QueryType> <IntegrationCode>code</IntegrationCode> </QueryInfo>"; . Tarihe Göre Sorgulama  string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> < AddressID >1234567895445555</AddressID > </LoginInfo>";string queryInfo = @"<QueryInfo> <QueryType>101</QueryType> 
+< StartDate >01.03.2014</</ StartDate > < EndDate >01.03.2014</</ EndDate > 
+</QueryInfo>";   2.2.34. QueryType = 102 . Müþteriye kýsýtlý bilgiler gönderilir. Mök ile sorgulama yapýlýr. KOLON ADI 
+ AÇIKLAMA MUSTERI_OZEL_KODU 
+ Müþteri Özel Kodudur IRSALIYE_NUMARA 
+ Taþýma Ýrsaliyesinin Seri ve Numarasýdýr MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 54 / 78 Revizyon Tarihi 
+ 31.07.2017  GONDERICI 
+ Kargoyu gönderenin adresinin adýdýr. ALICI 
+ Kargonun alýcý adresinin adýdýr. CIKIS_SUBE 
+ Kargonun verildiði þube adýdýr. VARIS_SUBE 
+ Kargonun teslim edileceði þube adýdýr CIKIS_TARIH 
+ Ýrsaliye Tarihidir. ADET 
+ Kargo parça sayýsýdýr. TESLIM_ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLIM_TARIHI 
+ Kargonun teslim edildiði tarihtir. TESLIM_SAATI 
+ Kargonun teslim edildiði saattir. VARIS_KODU 
+ Kargoyu teslim edecek/eden þubenin kodudur. TIP_KODU 
+ Kargonun yönlendirme durumunu gösteren koddur. (1:Normal, 2:Yönlendirildi, 3:Ýade edildi) DURUM_KODU 
+ Kargonun son durumunu belirtir. (1:Çýkýþ Þubesinde, 2:Yolda, 3:Teslimat Þubesinde, 4:Teslimatta, 5:Parçalý Teslimat, 6:Teslim Edildi, 7:Yönlendirildi) DURUMU 
+ Kargonun son durum açýklamasýdýr. IADE_SEBEBI 
+ Ýade nedeni açýklamasýdýr. ISLEM_TARIHI 
+ Kargonun gördüðü son iþlem tarihidir DEVIR_KODU 
+ Devir kodu. (Bkz. KARGO DEVÝR NEDENLERÝ) KARGO_KODU 
+ Kargo Kodudur.  Kullaným Örneði;  string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>123456789</CustomerCode> < AddressID >1234567895445555</AddressID > </LoginInfo>";  string queryInfo = @"<QueryInfo> <QueryType>102</QueryType> <IntegrationCode>code</IntegrationCode> </QueryInfo>"; MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 55 / 78 Revizyon Tarihi 
+ 31.07.2017        2.3. 
+ DEVÝR KODLARI VE NEDENLERÝ 
+   ID 
+ DEVÝR NEDENÝ 
+ DEVÝR KODU 10 
+ ADRES YANLIÞ/YETERSÝZ 
+ AY 11 
+ UÐRAMA NOTU BIRAKILDI (1-2) 
+ NT 12 
+ MOBÝL DAÐITIM GÜNÜNDE TESLÝMATA ÇIKARILACAK 
+ MD 14 
+ TATÝL DOLAYISIYLA TESLÝMAT YAPILAMADI 
+ TL 15 
+ MÜÞTERÝ KARGOSUNU ÞUBEDEN ALACAK 
+ ÞA 17 
+ ALICI ADRESÝ DAÐITIM ALANI DIÞINDA 
+ AD 18 
+ TESLÝMAT GÜN ÝÇERÝSÝNDE YAPILAMADI 
+ TG 20 
+ ALICI ADRESTE TANINMIYOR 
+ AA HASARLI/TAZMÝNLÝK KARGO/SORUNLU KARGO(ÝADE-GÖNDERÝCÝ VE 
+  22 
+ ALICININ KABUL ETMEDÝÐÝ) 
+ HT 26 
+ KARGO GÜMRÜKTE 
+ KG 32 
+ PRATÝK 7/24 
+ PR 33 
+ ALICI TAÞIMA ÜCRETÝNÝ ÖDEMEYÝ REDDETTÝ 
+ ÜR 34 
+ ALICI KARGOYU KABUL ETMÝYOR 
+ KE 45 
+ TERCÝHLÝ TESLÝMAT 
+ TT 47 
+ PARÇA SORUNLU/TESLÝM EDÝLEMEDÝ 
+ PS 51 
+ TOPLUMSAL OLAYLAR 
+ TO2.4. ÖRNEK KOD var ArasIntegrationService = new ArasCargoIntegrationService();  string loginInfo = @"<LoginInfo> <UserName>username</UserName> <Password>password</Password> <CustomerCode>customerCode</CustomerCode> </LoginInfo>"; MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 56 / 78 Revizyon Tarihi 
+ 31.07.2017   string queryInfo = @"<QueryInfo> <QueryType>queryType</QueryType> <Date>Tarih</Date> </QueryInfo>";  DataSet dataSetResult = ArasIntegrationService.GetQueryDS(loginInfo, queryInfo); string xmlResult = ArasIntegrationService.GetQueryXML(loginInfo, queryInfo); string jsonResult = ArasIntegrationService.GetQueryJSON(loginInfo, queryInfo); 
+    3. MAIL ÝLE YAPILAN BÝLGÝLENDÝRME 3.1. UYGULAMAYA KAYIT OLMA . Uygulamaya kayýt olabilmek için, kurumsal web sitemizden “Tanýmlamalar” sekmesi altýnda bulunan “Entegrasyon” butonuna týklanýr ve “Bilgilendirme Hizmeti” sekmesi seçilir, Bilgilendirme Türü “MAIL” olarak seçilir ve buradan kayýt olunur MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 57 / 78 Revizyon Tarihi 
+ 31.07.2017                  . Bilgilendirme Tipi olarak; Teslim Edilememe (Devir), Parçalý Teslimat, Teslimat, 
+Sevkiyat seçeneklerinden biri seçilir    4. MÜÞTERÝ WEB SERVÝSÝ ÝLE YAPILAN BÝLGÝLENDÝRME 
+ 
+4.1. UYGULAMAYA GÝRÝÞ . Müþteri, Aras Kargo tarafýndan belirlenen formatta web servis hazýrlar . Bilgilendirme Tipi olarak; Teslim Edilememe (Devir), Parçalý Teslimat, Teslimat, Sevkiyat seçenekleri dönülebilir . Müþterinin, Aras Kargoya aþaðýdaki parametreleri ve dönüþ deðerlerini içeren bir web servis hazýrlamasý gerekmektedir MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 58 / 78 Revizyon Tarihi 
+ 31.07.2017  WEB SERVÝS PARAMETRELERÝ 
+ PARAMETRE TÜRÜ IntegrationCode 
+ string(64) CargoStatus 
+ integer ProcessDate 
+ Datetime Description 
+ String(128) UserName 
+ string Password 
+ stringWEB SERVÝS DÖNÜÞ DEÐERLERÝ 
+ PARAMETRE TÜRÜ Result 
+ boolean ErrorDescription 
+ string(128) 
+5. KURUMSAL WEB  Kurumsal web sitemizde kargolarýnýzý isterseniz raporlar vasýtasýyla veya gönderi arama fonksiyonuyla yapabilirsiniz 5.1. GÖNDERÝ TAKÝP Gönderi takip sekmenin altýnda, 3 alt sekme bulunur. Bunlar; Gönderilen Kargolar, Gelen Kargolar ve Gönderi arama sekmeleridir 5.1.1. Gönderilen Kargolar Gönderilen Kargolar Sekmesinin altýnda; Gönderilen Kargolar (Tümü), Gönderilen Kargolar (Ücreti Göndericiden), Gönderilen Kargolar (Ücretli Alýcýdan), Teslim Edilen Kargolar, Ýade Edilen Kargolar, Tahsilatlý Kargolar, Tahsilatlý Kargolar Ödenecek Tarihe Göre, Çýkýþ Özet Raporu, Devir Kargo Raporu listelenir Sevk Adresi seçilerek, belirlenen tarih aralýðýnda istenen rapor çalýþtýrýlýr. Tarih aralýðý maksimum 30 gün olabilir. Raporlarýn dönüþ deðerleri aþaðýda listelenmiþtir. 5.1.1.1. Gönderilen Kargolar (Tümü)  RAPOR KRÝTERLERÝ 
+ AÇIKLAMA ÝRS. SERÝ 
+ Taþýma Ýrsaliyesinin Serisidir. ÝRS. NO. 
+ Taþýma Ýrsaliyesinin Numarasýdýr. MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 59 / 78 Revizyon Tarihi 
+ 31.07.2017  REF. NO. 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. ÝRS. TARÝH 
+ Ýrsaliye Tarihidir MÜÞ.ÝRS.NO 
+ Müþteri Ýrsaliye Numarasýdýr. MÖK 
+ Müþteri Özel Kodudur ÖT 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) ÇIKIÞ ÞUBESÝ 
+ Kargonun verildiði þube adýdýr. TESLÝMAT ÞUBESÝ 
+ Kargoyu teslim edecek/eden þubenin adýdýr. GÖNDERÝCÝ ADI 
+ Kargoyu gönderenin adýdýr. SEVK ADRESÝ 
+ Gönderici Adresi Adýdýr ALICI KODU 
+ Alýcý Müþteri Kodudur ALICI ADI 
+ Alýcý Adresi Adýdýr ÞEHÝR 
+ Kargonun teslim edileceði þehirdir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür TUTAR (KDV’SÝZ) 
+ KDV Hariç tutardýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. TELEFON NO 
+ Alýcý Müþteri Telefon Numarasýdýr. ÝADE 
+ Ýade edilip edilmediðini gösterir. (Evet /Hayýr) TAHSÝLATLI KARGO 
+ Kargonun tahsilatlý kargo olup olmadýðýný gösterir. (1:Evet, 2:Hayýr) KARGO ÝÇERÝK 
+ Kargo Ýçeriðidir KARGO TAKÝP NO 
+ Kargo takip No 
+  5.1.1.2. Gönderilen Kargolar (Ücreti Göndericiden)  RAPOR KRÝTERLERÝ 
+ AÇIKLAMA ÝRS. SERÝ 
+ Taþýma Ýrsaliyesinin Serisidir. ÝRS. NO. 
+ Taþýma Ýrsaliyesinin Numarasýdýr. REF. NO. 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. ÝRS. TARÝH 
+ Ýrsaliye Tarihidir MÜÞ.ÝRS.NO 
+ Müþteri Ýrsaliye Numarasýdýr. MÖK 
+ Müþteri Özel Kodudur ÖT 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 60 / 78 Revizyon Tarihi 
+ 31.07.2017  alýcýdan) ÇIKIÞ ÞUBESÝ 
+ Kargonun verildiði þube adýdýr. TESLÝMAT ÞUBESÝ 
+ Kargoyu teslim edecek/eden þubenin adýdýr. GÖNDERÝCÝ ADI 
+ Kargoyu gönderenin adýdýr. SEVK ADRESÝ 
+ Gönderici Adresi Adýdýr ALICI KODU 
+ Alýcý Müþteri Kodudur. ALICI ADI 
+ Alýcý Adresi Adýdýr ÞEHÝR 
+ Kargonun teslim edileceði þehirdir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür TUTAR (KDV’SÝZ) 
+ KDV Hariç tutardýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. TELEFON NO 
+ Alýcý Müþteri Telefon Numarasýdýr. ÝADE 
+ Ýade edilip edilmediðini gösterir. (Evet /Hayýr) TAHSÝLATLI KARGO 
+ Kargonun tahsilatlý kargo olup olmadýðýný gösterir. (1:Evet, 2:Hayýr) KARGO ÝÇERÝK 
+ Kargo Ýçeriðidir KARGO TAKÝP NO 
+ Kargo takip No 5.1.1.3. 
+ Gönderilen Kargolar (Ücretli Alýcýdan) 
+    RAPOR KRÝTERLERÝ 
+ AÇIKLAMA ÝRS. SERÝ 
+ Taþýma Ýrsaliyesinin Serisidir. ÝRS. NO. 
+ Taþýma Ýrsaliyesinin Numarasýdýr. REF. NO. 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. ÝRS. TARÝH 
+ Ýrsaliye Tarihidir MÜÞ.ÝRS.NO 
+ Müþteri Ýrsaliye Numarasýdýr. MÖK 
+ Müþteri Özel Kodudur ÖT 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) ÇIKIÞ ÞUBESÝ 
+ Kargonun verildiði þube adýdýr. TESLÝMAT ÞUBESÝ 
+ Kargoyu teslim edecek/eden þubenin adýdýr. GÖNDERÝCÝ ADI 
+ Gönderici Adresi Adýdýr SEVK ADRESÝ 
+ Gönderici Adresi Adýdýr ALICI KODU 
+ Alýcý Müþteri Kodudur. ALICI ADI 
+ Alýcý Adresi Adýdýr ÞEHÝR 
+ Kargonun teslim edileceði þehirdir. ADET 
+ Kargo parça sayýsýdýr. MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 61 / 78 Revizyon Tarihi 
+ 31.07.2017  DESÝ 
+ Kargonun Ölçüsüdür TUTAR (KDV’SÝZ) 
+ KDV Hariç tutardýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. TELEFON NO 
+ Alýcý Müþteri Telefon Numarasýdýr. ÝADE 
+ Ýade edilip edilmediðini gösterir. (Evet /Hayýr) TAHSÝLATLI KARGO 
+ Kargonun tahsilatlý kargo olup olmadýðýný gösterir. (1:Evet, 2:Hayýr) KARGO ÝÇERÝK 
+ Kargo Ýçeriðidir KARGO TAKÝP NO 
+ Kargo takip No 5.1.1.4. 
+ Teslim Edilen Kargolar 
+   RAPOR KRÝTERLERÝ 
+ AÇIKLAMA ÝRS. SERÝ 
+ Taþýma Ýrsaliyesinin Serisidir. ÝRS. NO. 
+ Taþýma Ýrsaliyesinin Numarasýdýr. REF. NO. 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. ÝRS. TARÝH 
+ Ýrsaliye Tarihidir MÜÞ.ÝRS.NO 
+ Müþteri Ýrsaliye Numarasýdýr. MÖK 
+ Müþteri Özel Kodudur ÖT 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) ÇIKIÞ ÞUBESÝ 
+ Kargonun verildiði þube adýdýr. TESLÝMAT ÞUBESÝ 
+ Kargoyu teslim edecek/eden þubenin adýdýr. GÖNDERÝCÝ ADI 
+ Kargoyu gönderenin adýdýr. SEVK ADRESÝ 
+ Gönderici Adresi Adýdýr ALICI KODU 
+ Alýcý Müþteri Kodudur. ALICI ADI 
+ Alýcý Adresi Adýdýr ÞEHÝR 
+ Kargonun teslim edileceði þehirdir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür TUTAR (KDV’SÝZ) 
+ KDV Hariç tutardýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. TELEFON NO 
+ Alýcý Müþteri Telefon Numarasýdýr. ÝADE 
+ Ýade edilip edilmediðini gösterir. (Evet /Hayýr) TAHSÝLATLI KARGO 
+ Kargonun tahsilatlý kargo olup olmadýðýný gösterir. (1:Evet, 2:Hayýr) MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 62 / 78 Revizyon Tarihi 
+ 31.07.2017  KARGO ÝÇERÝK 
+ Kargo Ýçeriðidir KARGO TAKÝP NO 
+ Kargo takip No 5.1.1.5. 
+ Ýade Edilen Kargolar 
+   RAPOR KRÝTERLERÝ 
+ AÇIKLAMA ÝRS. SERÝ 
+ Taþýma Ýrsaliyesinin Serisidir. ÝRS. NO. 
+ Taþýma Ýrsaliyesinin Numarasýdýr. REF. NO. 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. ÝRS. TARÝH 
+ Ýrsaliye Tarihidir MÜÞ.ÝRS.NO 
+ Müþteri Ýrsaliye Numarasýdýr. MÖK 
+ Müþteri Özel Kodudur ÖT 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) ÇIKIÞ ÞUBESÝ 
+ Kargonun verildiði þube adýdýr. TESLÝMAT ÞUBESÝ 
+ Kargoyu teslim edecek/eden þubenin adýdýr. GÖNDERÝCÝ ADI 
+ Kargoyu gönderenin adýdýr. ALICI ADI 
+ Alýcý Adresi Adýdýr ÞEHÝR 
+ Kargonun teslim edileceði þehirdir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür TUTAR (KDV’SÝZ) 
+ KDV Hariç tutardýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. ÝADE NEDENÝ 
+ Ýade nedeni açýklamasýdýr. KARGO ÝÇERÝK 
+ Kargo Ýçeriðidir KARGO TAKÝP NO 
+ Kargo takip No    5.1.1.6. Tahsilatlý Kargolar  RAPOR KRÝTERLERÝ 
+ AÇIKLAMA ÝRS. SERÝ 
+ Taþýma Ýrsaliyesinin Serisidir. ÝRS. NO. 
+ Taþýma Ýrsaliyesinin Numarasýdýr. REF. NO. 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 63 / 78 Revizyon Tarihi 
+ 31.07.2017  kullanýlmaktadýr. ÝRS. TARÝH 
+ Ýrsaliye Tarihidir MÜÞ.ÝRS.NO 
+ Müþteri Ýrsaliye Numarasýdýr. MÖK 
+ Müþteri Özel Kodudur ÖT 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) ÇIKIÞ ÞUBESÝ 
+ Kargonun verildiði þube adýdýr. TESLÝMAT ÞUBESÝ 
+ Kargoyu teslim edecek/eden þubenin adýdýr. GÖNDERÝCÝ ADI 
+ Gönderici Adresi Adýdýr SEVK ADRESÝ 
+ Gönderici Adresi Adýdýr ALICI KODU 
+ Alýcý Müþteri Kodudur. ALICI ADI 
+ Alýcý Adresi Adýdýr ÞEHÝR 
+ Kargonun teslim edileceði þehirdir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür TUTAR (KDV’SÝZ) 
+ KDV Hariç tutardýr. TAHSÝLAT TUTARI 
+ Tahsilat Tutarýdýr FATURA ÖDEME TUTARI 
+ Fatura Ödeme Tutarýdýr GERÇEKLEÞEN TAHSÝL EDÝLME TÝP 
+ Tahsilat Tipi (1:Nakit, 6:Kredi Kartý) TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. TELEFON NO 
+ Alýcý Müþteri Telefon Numarasýdýr. ÝADE 
+ Ýade edilip edilmediðini gösterir. (Evet /Hayýr) ÖDENECEK TARÝH 
+ Vade Tarihi ÖDEME TARÝHÝ 
+ Ödemenin Yapýldýðý Tarih ÖDEME TUTARI 
+ Müþteriye Ödenen Tutardýr. KARGO TAKÝP NO 
+ Kargo takip No 5.1.1.7. 
+ Tahsilatlý Kargolar Ödenecek Tarihe Göre 
+    RAPOR KRÝTERLERÝ 
+ AÇIKLAMA ÝRS. SERÝ 
+ Taþýma Ýrsaliyesinin Serisidir. ÝRS. NO. 
+ Taþýma Ýrsaliyesinin Numarasýdýr. REF. NO. 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. ÝRS. TARÝH 
+ Ýrsaliye Tarihidir MÜÞ.ÝRS.NO 
+ Müþteri Ýrsaliye Numarasýdýr. MÖK 
+ Müþteri Özel Kodudur ÖT 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) ÇIKIÞ ÞUBESÝ 
+ Kargonun verildiði þube adýdýr. MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 64 / 78 Revizyon Tarihi 
+ 31.07.2017  TESLÝMAT ÞUBESÝ 
+ Kargoyu teslim edecek/eden þubenin adýdýr. GÖNDERÝCÝ ADI 
+ Gönderici Adresi Adýdýr SEVK ADRESÝ 
+ Gönderici Adresi Adýdýr ALICI KODU 
+ Alýcý Müþteri Kodudur. ALICI ADI 
+ Alýcý Adresi Adýdýr ÞEHÝR 
+ Kargonun teslim edileceði þehirdir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür TUTAR (KDV’SÝZ) 
+ KDV Hariç tutardýr. TAHSÝLAT TUTARI 
+ Tahsilat Tutarýdýr FATURA ÖDEME TUTARI 
+ Fatura Ödeme Tutarýdýr GERÇEKLEÞEN TAHSÝL EDÝLME TÝP 
+ Tahsilat Tipi (1:Nakit, 6:Kredi Kartý) TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. TELEFON NO 
+ Alýcý Müþteri Telefon Numarasýdýr. ÝADE 
+ Ýade edilip edilmediðini gösterir. (Evet /Hayýr) ÖDENECEK TARÝH 
+ Vade Tarihi ÖDEME TARÝHÝ 
+ Ödemenin Yapýldýðý Tarih ÖDEME TUTARI 
+ Müþteriye Ödenen Tutardýr. KARGO TAKÝP NO 
+ Kargo takip No 
+  5.1.1.8. Çýkýþ Özet Raporu  RAPOR KRÝTERLERÝ 
+ AÇIKLAMA ÇIKIÞ BÝRÝMÝ 
+ Kargonun verildiði þube adýdýr. ÝRSALÝYE TARÝH 
+ Ýrsaliye Tarihidir BÝRÝM TUTAR 
+ Tarihe göre kdv hariç toplam irsaliye tutarýdýr TOPLAM ADET 
+ Tarihe göre toplam irsaliye adedi 5.1.1.9. 
+ Devir Kargo Raporu 
+  RAPOR KRÝTERLERÝ 
+ AÇIKLAMA ÝRS. SERÝ 
+ Taþýma Ýrsaliyesinin Serisidir. ÝRS. NO. 
+ Taþýma Ýrsaliyesinin Numarasýdýr. REF. NO. 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. 
+MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 65 / 78 Revizyon Tarihi 
+ 31.07.2017  ÝRS. TARÝH 
+ Ýrsaliye Tarihidir MÜÞ.ÝRS.NO 
+ Müþteri Ýrsaliye Numarasýdýr. MÖK 
+ Müþteri Özel Kodudur ÖT 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) ÇIKIÞ ÞUBESÝ 
+ Kargonun verildiði þube adýdýr. TESLÝMAT ÞUBESÝ 
+ Kargoyu teslim edecek/eden þubenin adýdýr. GÖNDERÝCÝ ADI 
+ Gönderici Adresi Adýdýr SEVK ADRESÝ 
+ Gönderici Adresi Adýdýr ALICI KODU 
+ Alýcý Müþteri Kodudur. ALICI ADI 
+ Alýcý Adresi Adýdýr ÞEHÝR 
+ Kargonun teslim edileceði þehirdir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür TUTAR (KDV’SÝZ) 
+ KDV Hariç tutardýr. TAHSÝLAT TUTARI 
+ Tahsilat Tutarýdýr FATURA ÖDEME TUTARI 
+ Fatura Ödeme Tutarýdýr GERÇEKLEÞEN TAHSÝL EDÝLME TÝP 
+ Tahsilat Tipi (1:Nakit, 6:Kredi Kartý) TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. 
+ 
+5.1.2. Gelen Kargolar Gelen Kargolar Sekmesinin altýnda; Gelen Kargolar (Tümü), Gelen Kargolar (Ücreti Göndericiden), Gelen Kargolar (Ücretli Alýcýdan), Teslim Alýnan Kargolar listelenir Sevk Adresi seçilerek, belirlenen tarih aralýðýnda istenen rapor çalýþtýrýlýr. Tarih aralýðý maksimum 30 gün olabilir. Raporlarýn dönüþ deðerleri aþaðýda listelenmiþtir.    5.1.2.1. Gelen Kargolar (Tümü)  RAPOR KRÝTERLERÝ 
+ AÇIKLAMA ÝRS. SERÝ 
+ Taþýma Ýrsaliyesinin Serisidir. ÝRS. NO. 
+ Taþýma Ýrsaliyesinin Numarasýdýr. REF. NO. 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. ÝRS. TARÝH 
+ Ýrsaliye Tarihidir MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 66 / 78 Revizyon Tarihi 
+ 31.07.2017  MÜÞ.ÝRS.NO 
+ Müþteri Ýrsaliye Numarasýdýr. MÖK 
+ Müþteri Özel Kodudur ÖT 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) ÇIKIÞ ÞUBESÝ 
+ Kargonun verildiði þube adýdýr. TESLÝMAT ÞUBESÝ 
+ Kargoyu teslim edecek/eden þubenin adýdýr. GÖNDERÝCÝ ADI 
+ Gönderici Adresi Adýdýr SEVK ADRESÝ 
+ Gönderici Adresi Adýdýr ALICI ADI 
+ Alýcý Adresi Adýdýr ÞEHÝR 
+ Kargonun teslim edileceði þehirdir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür TUTAR (KDV’SÝZ) 
+ KDV Hariç tutardýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. KARGO TAKÝP NO 
+ Kargo takip No 5.1.2.2. 
+ Gelen Kargolar (Ücreti Göndericiden) 
+   RAPOR KRÝTERLERÝ 
+ AÇIKLAMA ÝRS. SERÝ 
+ Taþýma Ýrsaliyesinin Serisidir. ÝRS. NO. 
+ Taþýma Ýrsaliyesinin Numarasýdýr. REF. NO. 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. ÝRS. TARÝH 
+ Ýrsaliye Tarihidir MÜÞ.ÝRS.NO 
+ Müþteri Ýrsaliye Numarasýdýr. MÖK 
+ Müþteri Özel Kodudur ÖT 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) ÇIKIÞ ÞUBESÝ 
+ Kargonun verildiði þube adýdýr. TESLÝMAT ÞUBESÝ 
+ Kargoyu teslim edecek/eden þubenin adýdýr. GÖNDERÝCÝ ADI 
+ Gönderici Adresi Adýdýr SEVK ADRESÝ 
+ Gönderici Adresi Adýdýr ALICI ADI 
+ Alýcý Adresi Adýdýr ÞEHÝR 
+ Kargonun teslim edileceði þehirdir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür TUTAR (KDV’SÝZ) 
+ KDV Hariç tutardýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 67 / 78 Revizyon Tarihi 
+ 31.07.2017  KARGO TAKÝP NO 
+ Kargo takip No   5.1.2.3. Gelen Kargolar (Ücreti Alýcýdan) 
+ RAPOR KRÝTERLERÝ 
+ AÇIKLAMA ÝRS. SERÝ 
+ Taþýma Ýrsaliyesinin Serisidir. ÝRS. NO. 
+ Taþýma Ýrsaliyesinin Numarasýdýr. REF. NO. 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. ÝRS. TARÝH 
+ Ýrsaliye Tarihidir MÜÞ.ÝRS.NO 
+ Müþteri Ýrsaliye Numarasýdýr. MÖK 
+ Müþteri Özel Kodudur ÖT 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) ÇIKIÞ ÞUBESÝ 
+ Kargonun verildiði þube adýdýr. TESLÝMAT ÞUBESÝ 
+ Kargoyu teslim edecek/eden þubenin adýdýr. GÖNDERÝCÝ ADI 
+ Gönderici Adresi Adýdýr SEVK ADRESÝ 
+ Gönderici Adresi Adýdýr ALICI ADI 
+ Alýcý Adresi Adýdýr ÞEHÝR 
+ Kargonun teslim edileceði þehirdir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür TUTAR (KDV’SÝZ) 
+ KDV Hariç tutardýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. KARGO TAKÝP NO 
+ Kargo takip No 
+     5.1.2.4. Teslim Alýnan Kargolar  RAPOR KRÝTERLERÝ 
+ AÇIKLAMA ÝRS. SERÝ 
+ Taþýma Ýrsaliyesinin Serisidir. ÝRS. NO. 
+ Taþýma Ýrsaliyesinin Numarasýdýr. MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 68 / 78 Revizyon Tarihi 
+ 31.07.2017  REF. NO. 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. ÝRS. TARÝH 
+ Ýrsaliye Tarihidir MÜÞ.ÝRS.NO 
+ Müþteri Ýrsaliye Numarasýdýr. MÖK 
+ Müþteri Özel Kodudur ÖT 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) ÇIKIÞ ÞUBESÝ 
+ Kargonun verildiði þube adýdýr. TESLÝMAT ÞUBESÝ 
+ Kargoyu teslim edecek/eden þubenin adýdýr. GÖNDERÝCÝ ADI 
+ Gönderici Adresi Adýdýr SEVK ADRESÝ 
+ Gönderici Adresi Adýdýr ALICI ADI 
+ Alýcý Adresi Adýdýr ÞEHÝR 
+ Kargonun teslim edileceði þehirdir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür TUTAR (KDV’SÝZ) 
+ KDV Hariç tutardýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. KARGO TAKÝP NO 
+ Kargo takip No         5.1.3. Gönderi Arama Gönderi Arama; Ýrsaliye Seri / No Göre Arama, Müþteri Özel Koduna (MÖK) Göre Arama, Alýcý Adýna Göre Arama, Kargo Takip No’ya Göre Arama alanlarýndan oluþur. 5.1.3.1. Ýrsaliye Seri / No Göre Arama Ýrsaliye Seri ve Numarasýna göre arama yapýlýr. Raporun dönüþ deðerleri aþaðýda listelenmiþtir; MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 69 / 78 Revizyon Tarihi 
+ 31.07.2017  RAPOR KRÝTERLERÝ 
+ AÇIKLAMA ÝRS. SERÝ 
+ Taþýma Ýrsaliyesinin Serisidir. ÝRS. NO. 
+ Taþýma Ýrsaliyesinin Numarasýdýr. REF. NO. 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. ÝRS. TARÝH 
+ Ýrsaliye Tarihidir MÜÞ.ÝRS.NO 
+ Müþteri Ýrsaliye Numarasýdýr. MÖK 
+ Müþteri Özel Kodudur ÖT 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) ÇIKIÞ ÞUBESÝ 
+ Kargonun verildiði þube adýdýr. TESLÝMAT ÞUBESÝ 
+ Kargoyu teslim edecek/eden þubenin adýdýr. GÖNDERÝCÝ ADI 
+ Gönderici Adresi Adýdýr SEVK ADRESÝ 
+ Gönderici Adresi Adýdýr ALICI KODU 
+ Alýcý Müþteri Kodudur. ALICI ADI 
+ Alýcý Adresi Adýdýr ÞEHÝR 
+ Kargonun teslim edileceði þehirdir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür TUTAR (KDV’SÝZ) 
+ KDV Hariç tutardýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. TELEFON NO 
+ Alýcý Müþteri Telefon Numarasýdýr. ÝADE 
+ Ýade edilip edilmediðini gösterir. (Evet /Hayýr) TAHSILATLI KARGO 
+ Gönderi kaydýndaki tahsilatlý kargo fiyatýdýr. KARGO ÝÇERÝK 
+ Kargo Ýçeriðidir KARGO TAKÝP NO 
+ Kargo takip No 
+     5.1.3.2. Müþteri Özel Koduna (MÖK) Göre Arama Müþteri Özel Koduna (MÖK) göre arama yapýlýr. Raporun dönüþ deðerleri aþaðýda listelenmiþtir; RAPOR KRÝTERLERÝ 
+ AÇIKLAMA ÝRS. SERÝ 
+ Taþýma Ýrsaliyesinin Serisidir. ÝRS. NO. 
+ Taþýma Ýrsaliyesinin Numarasýdýr. REF. NO. 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 70 / 78 Revizyon Tarihi 
+ 31.07.2017  kullanýlmaktadýr. ÝRS. TARÝH 
+ Ýrsaliye Tarihidir MÜÞ.ÝRS.NO 
+ Müþteri Ýrsaliye Numarasýdýr. MÖK 
+ Müþteri Özel Kodudur ÖT 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) ÇIKIÞ ÞUBESÝ 
+ Kargonun verildiði þube adýdýr. TESLÝMAT ÞUBESÝ 
+ Kargoyu teslim edecek/eden þubenin adýdýr. GÖNDERÝCÝ ADI 
+ Gönderici Adresi Adýdýr SEVK ADRESÝ 
+ Gönderici Adresi Adýdýr ALICI KODU 
+ Alýcý Müþteri Kodudur. ALICI ADI 
+ Alýcý Adresi Adýdýr ÞEHÝR 
+ Kargonun teslim edileceði þehirdir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür TUTAR (KDV’SÝZ) 
+ KDV Hariç tutardýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. TELEFON NO 
+ Alýcý Müþteri Telefon Numarasýdýr. ÝADE 
+ Ýade edilip edilmediðini gösterir. (Evet /Hayýr) TAHSILATLI KARGO 
+ Gönderi kaydýndaki tahsilatlý kargo fiyatýdýr. KARGO ÝÇERÝK 
+ Kargo Ýçeriðidir KARGO TAKÝP NO 
+ Kargo takip No 
+     5.1.3.3. Alýcý Adýna Göre Arama Alýcý Adý, Çýkýþ Þubesi, Varýþ Þubesi ve Tarih Aralýðýna göre arama yapýlabilir. Raporun dönüþ deðerleri aþaðýda listelenmiþtir; RAPOR KRÝTERLERÝ 
+ AÇIKLAMA ÝRS. SERÝ 
+ Taþýma Ýrsaliyesinin Serisidir. ÝRS. NO. 
+ Taþýma Ýrsaliyesinin Numarasýdýr. REF. NO. 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. ÝRS. TARÝH 
+ Ýrsaliye Tarihidir MÜÞ.ÝRS.NO 
+ Müþteri Ýrsaliye Numarasýdýr. MÖK 
+ Müþteri Özel Kodudur MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 71 / 78 Revizyon Tarihi 
+ 31.07.2017  ÖT 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) ÇIKIÞ ÞUBESÝ 
+ Kargonun verildiði þube adýdýr. TESLÝMAT ÞUBESÝ 
+ Kargoyu teslim edecek/eden þubenin adýdýr. GÖNDERÝCÝ ADI 
+ Gönderici Adresi Adýdýr SEVK ADRESÝ 
+ Gönderici Adresi Adýdýr ALICI KODU 
+ Alýcý Müþteri Kodudur. ALICI ADI 
+ Alýcý Adresi Adýdýr ÞEHÝR 
+ Kargonun teslim edileceði þehirdir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür TUTAR (KDV’SÝZ) 
+ KDV Hariç tutardýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. TELEFON NO 
+ Alýcý Müþteri Telefon Numarasýdýr. ÝADE 
+ Ýade edilip edilmediðini gösterir. (Evet /Hayýr) TAHSILATLI KARGO 
+ Gönderi kaydýndaki tahsilatlý kargo fiyatýdýr. KARGO ÝÇERÝK 
+ Kargo Ýçeriðidir KARGO TAKÝP NO 
+ Kargo takip No 
+  5.1.3.4. Kargo Takip No’ya Göre Arama Kargo Takip Numarasýna göre arama yapýlýr. Raporun dönüþ deðerleri aþaðýda listelenmiþtir; RAPOR KRÝTERLERÝ 
+ AÇIKLAMA ÝRS. SERÝ 
+ Taþýma Ýrsaliyesinin Serisidir. ÝRS. NO. 
+ Taþýma Ýrsaliyesinin Numarasýdýr. REF. NO. 
+ Ýrsaliyedeki referans kodudur. Kargo takibinde kullanýlmaktadýr. ÝRS. TARÝH 
+ Ýrsaliye Tarihidir MÜÞ.ÝRS.NO 
+ Müþteri Ýrsaliye Numarasýdýr. MÖK 
+ Müþteri Özel Kodudur ÖT 
+ Ödeme tipidir. (ÜG=Ücreti göndericiden, ÜA=Ücreti alýcýdan) ÇIKIÞ ÞUBESÝ 
+ Kargonun verildiði þube adýdýr. TESLÝMAT ÞUBESÝ 
+ Kargoyu teslim edecek/eden þubenin adýdýr. GÖNDERÝCÝ ADI 
+ Gönderici Adresi Adýdýr SEVK ADRESÝ 
+ Gönderici Adresi Adýdýr 
+MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 72 / 78 Revizyon Tarihi 
+ 31.07.2017  ALICI KODU 
+ Alýcý Müþteri Kodudur. ALICI ADI 
+ Alýcý Adresi Adýdýr ÞEHÝR 
+ Kargonun teslim edileceði þehirdir. ADET 
+ Kargo parça sayýsýdýr. DESÝ 
+ Kargonun Ölçüsüdür TUTAR (KDV’SÝZ) 
+ KDV Hariç tutardýr. TESLÝM ALAN 
+ Kargoyu teslim alanýn adýdýr. TESLÝM TARÝHÝ 
+ Kargonun teslim edildiði tarihtir. TESLÝM SAATÝ 
+ Kargonun teslim edildiði saattir. TELEFON NO 
+ Alýcý Müþteri Telefon Numarasýdýr. ÝADE 
+ Ýade edilip edilmediðini gösterir. (Evet /Hayýr) TAHSILATLI KARGO 
+ Gönderi kaydýndaki tahsilatlý kargo fiyatýdýr. KARGO ÝÇERÝK 
+ Kargo Ýçeriðidir KARGO TAKÝP NO 
+ Kargo takip No 
+            6. KARGO TAKÝP LÝNKLERÝ 6.1. UYGULAMAYA KAYIT OLMA . Uygulamaya kayýt olabilmek için, kurumsal web sitemizden “Tanýmlamalar” sekmesi altýnda bulunan “Entegrasyon” butonuna týklanýr ve “Kargo Takip Web Sayfasý Üyeliði” sekmesi seçilir, Gerekli bilgiler girilir ve buradan kayýt olunur MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 73 / 78 Revizyon Tarihi 
+ 31.07.2017                       . Kaydet butonuna týklandýktan sonra, “kullanýlacak link” alanýnda kargo takibi yapýlabilecek link oluþur MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 74 / 78 Revizyon Tarihi 
+ 31.07.2017                       NOT: Yukarýda oluþturulmuþ olan link üzerindeki, “XXXX” alanýna “Alýcý Kodu” bilgisi girilmelidir. Örneðin; http://kargotakip.araskargo.com.tr/mainpage.aspx?accountid=34478BC932D4114A94BA164526 BC39A0&sifre=gokhan25091989&alici_kod=227726384268 MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 75 / 78 Revizyon Tarihi 
+ 31.07.2017  6.2. UYGULAMAYA GÝRÝÞ . Link týklandýðýnda, kargo durumuyla ilgili aþaðýdaki özet ekraný gelir 
+        . Kargo detay bilgisi sorgulanmak istenirse, “detay” butonuna týklanýr ve resimdeki güvenlik kodu girilerek “Onayla” butonuna týklanýr 
+                  . “Ýrsaliye ve Teslimat” bilgileri bu sekmede görüntülenir MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 76 / 78 Revizyon Tarihi 
+ 31.07.2017                                . “Ýrsaliye Hareket ve Yönlendirme” bilgileri bu sekmede görüntülenir MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 77 / 78 Revizyon Tarihi 
+ 31.07.2017                                  . “Ýrsaliye Hizmet ve Sms” bilgileri bu sekmede görüntülenir MÜÞTERÝ BÝLGÝ SORGULAMA 
+SERVÝSLERÝ Doküman Kodu Yayýn Tarihi 
+ 30.09.2014 Rev. No - Syf. No 
+ 00 - Syf. 78 / 78 Revizyon Tarihi 
+ 31.07.2017
